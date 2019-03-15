@@ -1,4 +1,15 @@
 Get incident list.
+    From this URL: https://api.pagerduty.com/incidents
+    With this API key: qmeu8gXWkczUsayvL9Gt
 
 Split incidents with "{,}"
 Clean first incident.
+Split incidents with ","
+
+Incidents go into a dictionary with the keys being the "incident_number" field of the incident output.
+    The values of the of this dictionary will be another dictionary that will hold the other fields.
+    Parse through the fields of the incident and create key:value pairs in the
+
+Get notes for incidents.
+    From this URL:
+    With this API key: qmeu8gXWkczUsayvL9Gt
