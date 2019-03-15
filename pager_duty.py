@@ -32,13 +32,11 @@
 #   since: Start date of incidents you want to pull in YYYY-MM-DD format
 #   until: End date of incidents you want to pull in YYYY-MM-DD format
 
-import requests
-import sys
 import csv
-import json
-import datetime
+import sys
 from datetime import date
 
+import requests
 from urllib3.connectionpool import xrange
 
 
@@ -53,6 +51,7 @@ def get_incident_count(since, until, headers):
     r = requests.get(get_incident_count_url, params=payload, headers=headers)
     return int(r.json()['total'])
 
+
 def get_incident_ids(since, until, headers, ea_hun=None):
     # Based on an incident-count used to create an 'offset',
     # retrieve incident-IDs, in batches-of-100, and return as a list.
@@ -61,12 +60,13 @@ def get_incident_ids(since, until, headers, ea_hun=None):
     count = get_incident_count(since, until, headers)
     get_incident_ids_url = 'https://api.pagerduty.com/incidents'
     payload = {'since': since, 'until': until}
-    for ea_hun in xrange(0,count) or int(ea_hun)==count:
-        if int(ea_hun)%100==1:
+    for ea_hun in xrange(0, count) or int(ea_hun) == count:
+        if int(ea_hun) % 100 == 1:
             payload['offset'] = ea_hun
             r = requests.get(get_incident_ids_url, params=payload, headers=headers, stream=True)
             id_list = id_list + [ea_inc['id'] for ea_inc in r.json()['incidents']]
     return id_list
+
 
 def get_details_by_incident(api_key, filename='pagerduty_export', since='', until=date.today()):
     # Based on a list of incident-IDs, retrieve incident details.
@@ -77,14 +77,17 @@ def get_details_by_incident(api_key, filename='pagerduty_export', since='', unti
     }
     id_list = get_incident_ids(since, until, headers)
     fin_file = open('{filename}.csv'.format(filename=filename), 'w')
-    fieldnames = ['incident_id','created_at','type','user_or_agent_id','user_or_agent_summary','notification_type','channel_type','summary']
+    fieldnames = ['incident_id', 'created_at', 'type', 'user_or_agent_id', 'user_or_agent_summary', 'notification_type',
+                  'channel_type', 'summary']
     writer = csv.DictWriter(fin_file, fieldnames=fieldnames)
     writer.writeheader()
     for ea_id in id_list:
-        r = requests.get('https://api.pagerduty.com/incidents/{0}/log_entries'.format(ea_id), headers=headers, stream=True)
+        r = requests.get('https://api.pagerduty.com/incidents/{0}/log_entries'.format(ea_id), headers=headers,
+                         stream=True)
         for ea_entry in reversed(r.json()['log_entries']):
             if ea_entry['type'] != 'notify_log_entry_reference' and ea_entry['type'] != 'notify_log_entry':
-                if ea_entry['channel']['type'] == 'nagios' or ea_entry['channel']['type'] == 'web_trigger' or ea_entry['channel']['type'] == 'email' or ea_entry['channel']['type'] == 'api':
+                if ea_entry['channel']['type'] == 'nagios' or ea_entry['channel']['type'] == 'web_trigger' or \
+                        ea_entry['channel']['type'] == 'email' or ea_entry['channel']['type'] == 'api':
                     row = {
                         'incident_id': ea_id,
                         'created_at': ea_entry['created_at'],
@@ -95,7 +98,12 @@ def get_details_by_incident(api_key, filename='pagerduty_export', since='', unti
                         'channel_type': ea_entry['channel']['type'],
                         'summary': ea_entry['summary']
                     }
-                elif ea_entry['type'] == 'assign_log_entry' or ea_entry['type'] == 'assign_log_entry_reference' or ea_entry['type'] == 'acknowledge_log_entry' or ea_entry['type'] == 'acknowledge_log_entry_reference' or ea_entry['type'] == 'resolve_log_entry' or ea_entry['type'] == 'resolve_log_entry_reference' or ea_entry['type'] == 'snooze_log_entry' or ea_entry['type'] == 'snooze_log_entry_reference' or ea_entry['type'] == 'annotate_log_entry' or ea_entry['type'] == 'annotate_log_entry_reference':
+                elif ea_entry['type'] == 'assign_log_entry' or ea_entry['type'] == 'assign_log_entry_reference' or \
+                        ea_entry['type'] == 'acknowledge_log_entry' or ea_entry[
+                    'type'] == 'acknowledge_log_entry_reference' or ea_entry['type'] == 'resolve_log_entry' or ea_entry[
+                    'type'] == 'resolve_log_entry_reference' or ea_entry['type'] == 'snooze_log_entry' or ea_entry[
+                    'type'] == 'snooze_log_entry_reference' or ea_entry['type'] == 'annotate_log_entry' or ea_entry[
+                    'type'] == 'annotate_log_entry_reference':
                     row = {
                         'incident_id': ea_id,
                         'created_at': ea_entry['created_at'],
@@ -113,17 +121,22 @@ def get_details_by_incident(api_key, filename='pagerduty_export', since='', unti
                     'type': ea_entry['type'],
                     'user_or_agent_id': ea_entry['user']['id'],
                     'user_or_agent_summary': ea_entry['user']['summary'],
-                    'notification_type': ea_entry['channel']['notification']['type'].replace('\n',''),
+                    'notification_type': ea_entry['channel']['notification']['type'].replace('\n', ''),
                     'channel_type': ea_entry['channel']['type'],
                     'summary': ea_entry['summary']
                 }
             writer.writerow(row)
-    print ("Successfully created {filename}.csv!".format(filename=filename))
+    print("Successfully created {filename}.csv!".format(filename=filename))
     fin_file.close()
+
 
 if __name__ == '__main__':
     if len(sys.argv) == 1:
-        print ('Error: You did not enter any parameters.\nUsage: ./get_incident_details_csv api_key [filename] [since] [until]\n\tapi_key: PagerDuty API access token\n\tfilename: Name of the CSV file. Defaults to pagerduty_export.\n\tsince: Start date of incidents you want to pull in YYYY-MM-DD format\n\tuntil: End date of incidents you want to pull in YYYY-MM-DD format')
+        print(
+            'Error: You did not enter any parameters.\nUsage: ./get_incident_details_csv api_key [filename] [since] ['
+            'until]\n\tapi_key: PagerDuty API access token\n\tfilename: Name of the CSV file. Defaults to '
+            'pagerduty_export.\n\tsince: Start date of incidents you want to pull in YYYY-MM-DD format\n\tuntil: End '
+            'date of incidents you want to pull in YYYY-MM-DD format')
     elif len(sys.argv) == 2:
         get_details_by_incident(sys.argv[1])
     elif len(sys.argv) == 3:

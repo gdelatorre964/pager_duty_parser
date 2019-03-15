@@ -1,0 +1,1438 @@
+incident_id,created_at,type,user_or_agent_id,user_or_agent_summary,notification_type,channel_type,summary
+PKG0N3P,2019-02-15T13:47:48Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PKG0N3P,2019-02-15T13:47:48Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PKG0N3P,2019-02-15T13:47:48Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PKG0N3P,2019-02-15T13:47:48Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PKG0N3P,2019-02-15T13:47:53Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PKG0N3P,2019-02-15T13:47:53Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PKG0N3P,2019-02-15T13:47:53Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PKG0N3P,2019-02-15T13:47:56Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PKG0N3P,2019-02-15T13:48:12Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PKG0N3P,2019-02-15T14:06:00Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PKG0N3P,2019-02-15T14:06:02Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PBDRHWY,2019-02-15T14:54:52Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PBDRHWY,2019-02-15T14:54:52Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PBDRHWY,2019-02-15T14:54:52Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PBDRHWY,2019-02-15T14:54:52Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PBDRHWY,2019-02-15T14:54:52Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PBDRHWY,2019-02-15T14:54:53Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PBDRHWY,2019-02-15T14:54:53Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PBDRHWY,2019-02-15T14:54:53Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PBDRHWY,2019-02-15T14:54:53Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PBDRHWY,2019-02-15T14:54:53Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PBDRHWY,2019-02-15T14:54:53Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PBDRHWY,2019-02-15T14:54:56Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PBDRHWY,2019-02-15T14:55:33Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PBDRHWY,2019-02-15T14:55:33Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PBDRHWY,2019-02-15T14:55:33Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PBDRHWY,2019-02-15T14:55:34Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PBDRHWY,2019-02-15T14:55:35Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PBDRHWY,2019-02-15T14:55:42Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PBDRHWY,2019-02-15T14:56:37Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PBDRHWY,2019-02-15T14:57:04Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PBDRHWY,2019-02-15T14:57:24Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PBDRHWY,2019-02-15T14:57:26Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PBDRHWY,2019-02-15T15:20:38Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,mobile,Resolved by Stuart Harmon
+PBDRHWY,2019-02-15T15:21:52Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PYWB6BR,2019-02-15T14:55:10Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PYWB6BR,2019-02-15T14:55:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PYWB6BR,2019-02-15T14:55:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PYWB6BR,2019-02-15T14:55:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PYWB6BR,2019-02-15T14:55:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PYWB6BR,2019-02-15T14:55:33Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PYWB6BR,2019-02-15T14:55:33Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PYWB6BR,2019-02-15T14:55:33Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PYWB6BR,2019-02-15T14:55:34Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PYWB6BR,2019-02-15T14:55:35Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PYWB6BR,2019-02-15T14:55:42Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PYWB6BR,2019-02-15T14:56:36Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,mobile,Acknowledged by Stuart Harmon
+PYWB6BR,2019-02-15T14:56:37Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PYWB6BR,2019-02-15T14:57:04Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PYWB6BR,2019-02-15T14:57:24Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PYWB6BR,2019-02-15T16:44:58Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PYWB6BR,2019-02-15T16:45:02Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PXZAH68,2019-02-15T16:49:35Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PXZAH68,2019-02-15T16:49:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PXZAH68,2019-02-15T16:49:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PXZAH68,2019-02-15T16:49:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PXZAH68,2019-02-15T16:49:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PXZAH68,2019-02-15T16:49:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PXZAH68,2019-02-15T16:49:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PXZAH68,2019-02-15T16:49:36Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PXZAH68,2019-02-15T16:49:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PXZAH68,2019-02-15T16:49:36Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PXZAH68,2019-02-15T16:49:36Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PXZAH68,2019-02-15T16:49:36Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PXZAH68,2019-02-15T16:49:36Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PXZAH68,2019-02-15T16:49:40Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PXZAH68,2019-02-15T16:49:41Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PXZAH68,2019-02-15T16:51:10Z,acknowledge_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Acknowledged by Gabby De La Torre
+PXZAH68,2019-02-15T17:01:09Z,resolve_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Resolved by Gabby De La Torre
+PXZAH68,2019-02-15T17:01:40Z,annotate_log_entry,PXLZNYT,Gabby De La Torre,N/A,note,Note added by Gabby De La Torre
+P483L52,2019-02-15T18:09:37Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P483L52,2019-02-15T18:09:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P483L52,2019-02-15T18:09:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P483L52,2019-02-15T18:09:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P483L52,2019-02-15T18:09:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P483L52,2019-02-15T18:09:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P483L52,2019-02-15T18:09:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P483L52,2019-02-15T18:09:37Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P483L52,2019-02-15T18:09:37Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P483L52,2019-02-15T18:09:38Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P483L52,2019-02-15T18:09:38Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P483L52,2019-02-15T18:09:38Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P483L52,2019-02-15T18:09:38Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P483L52,2019-02-15T18:09:38Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P483L52,2019-02-15T18:09:38Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P483L52,2019-02-15T18:09:38Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P483L52,2019-02-15T18:09:38Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P483L52,2019-02-15T18:09:41Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P483L52,2019-02-15T18:10:05Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P483L52,2019-02-15T18:10:18Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P483L52,2019-02-15T18:55:57Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+P483L52,2019-02-15T18:55:58Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+P0O0BVF,2019-02-15T18:58:11Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P0O0BVF,2019-02-15T18:58:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P0O0BVF,2019-02-15T18:58:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P0O0BVF,2019-02-15T18:58:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P0O0BVF,2019-02-15T18:58:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P0O0BVF,2019-02-15T18:58:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P0O0BVF,2019-02-15T18:58:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P0O0BVF,2019-02-15T18:58:12Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P0O0BVF,2019-02-15T18:58:12Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P0O0BVF,2019-02-15T18:58:12Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P0O0BVF,2019-02-15T18:58:13Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P0O0BVF,2019-02-15T18:58:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P0O0BVF,2019-02-15T18:58:13Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P0O0BVF,2019-02-15T18:58:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P0O0BVF,2019-02-15T18:58:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P0O0BVF,2019-02-15T18:58:13Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P0O0BVF,2019-02-15T18:58:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P0O0BVF,2019-02-15T18:58:15Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P0O0BVF,2019-02-15T18:58:26Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P0O0BVF,2019-02-15T18:58:55Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P0O0BVF,2019-02-15T22:46:55Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,mobile,Resolved by Stuart Harmon
+P0O0BVF,2019-02-15T22:47:30Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PS1CUVG,2019-02-15T22:26:30Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PS1CUVG,2019-02-15T22:26:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PS1CUVG,2019-02-15T22:26:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PS1CUVG,2019-02-15T22:26:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PS1CUVG,2019-02-15T22:26:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PS1CUVG,2019-02-15T22:26:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PS1CUVG,2019-02-15T22:26:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PS1CUVG,2019-02-15T22:26:31Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PS1CUVG,2019-02-15T22:26:34Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PS1CUVG,2019-02-15T22:26:50Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PS1CUVG,2019-02-15T22:26:54Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PS1CUVG,2019-02-15T22:27:12Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PS1CUVG,2019-02-15T22:35:53Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Resolved by Brett Lindsey
+PS1CUVG,2019-02-15T22:36:27Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PIMT3F3,2019-02-15T23:36:09Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PIMT3F3,2019-02-15T23:36:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PIMT3F3,2019-02-15T23:36:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PIMT3F3,2019-02-15T23:36:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PIMT3F3,2019-02-15T23:36:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PIMT3F3,2019-02-15T23:36:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PIMT3F3,2019-02-15T23:36:10Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PIMT3F3,2019-02-15T23:36:10Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PIMT3F3,2019-02-15T23:36:10Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PIMT3F3,2019-02-15T23:36:10Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PIMT3F3,2019-02-15T23:36:10Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PIMT3F3,2019-02-15T23:36:11Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PIMT3F3,2019-02-15T23:36:11Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PIMT3F3,2019-02-15T23:36:26Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PIMT3F3,2019-02-15T23:36:48Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PIMT3F3,2019-02-15T23:48:04Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Resolved by Brett Lindsey
+PIMT3F3,2019-02-15T23:48:40Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PNPG3RJ,2019-02-16T15:25:55Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PNPG3RJ,2019-02-16T15:25:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PNPG3RJ,2019-02-16T15:25:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PNPG3RJ,2019-02-16T15:25:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PNPG3RJ,2019-02-16T15:25:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PNPG3RJ,2019-02-16T15:25:56Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PNPG3RJ,2019-02-16T15:25:56Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PNPG3RJ,2019-02-16T15:25:56Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PNPG3RJ,2019-02-16T15:25:56Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PNPG3RJ,2019-02-16T15:25:56Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PNPG3RJ,2019-02-16T15:26:29Z,acknowledge_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Acknowledged by Gabby De La Torre
+PNPG3RJ,2019-02-16T16:49:50Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Resolved by Brett Lindsey
+PNPG3RJ,2019-02-16T16:50:07Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PE2CPTU,2019-02-16T15:33:19Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PE2CPTU,2019-02-16T15:33:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PE2CPTU,2019-02-16T15:33:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PE2CPTU,2019-02-16T15:33:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PE2CPTU,2019-02-16T15:33:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PE2CPTU,2019-02-16T15:33:20Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PE2CPTU,2019-02-16T15:33:20Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PE2CPTU,2019-02-16T15:33:20Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PE2CPTU,2019-02-16T15:33:20Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PE2CPTU,2019-02-16T15:33:20Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PE2CPTU,2019-02-16T15:33:42Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PE2CPTU,2019-02-16T15:34:00Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PE2CPTU,2019-02-16T16:50:12Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Resolved by Brett Lindsey
+PE2CPTU,2019-02-16T16:50:25Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PUYUOZ8,2019-02-16T16:46:15Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PUYUOZ8,2019-02-16T16:46:15Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PUYUOZ8,2019-02-16T16:46:15Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PUYUOZ8,2019-02-16T16:46:15Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PUYUOZ8,2019-02-16T16:46:15Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PUYUOZ8,2019-02-16T16:46:16Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PUYUOZ8,2019-02-16T16:46:16Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PUYUOZ8,2019-02-16T16:46:16Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PUYUOZ8,2019-02-16T16:46:16Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PUYUOZ8,2019-02-16T16:46:16Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PUYUOZ8,2019-02-16T16:47:09Z,acknowledge_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Acknowledged by Gabby De La Torre
+PUYUOZ8,2019-02-16T18:48:54Z,resolve_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Resolved by Gabby De La Torre
+PWN8GZW,2019-02-17T13:36:43Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PWN8GZW,2019-02-17T13:36:43Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PWN8GZW,2019-02-17T13:36:43Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PWN8GZW,2019-02-17T13:36:43Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PWN8GZW,2019-02-17T13:36:44Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PWN8GZW,2019-02-17T13:36:44Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PWN8GZW,2019-02-17T13:37:09Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PWN8GZW,2019-02-17T13:38:39Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PWN8GZW,2019-02-17T13:38:39Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PWN8GZW,2019-02-17T14:46:40Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PWN8GZW,2019-02-17T14:46:51Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PKCQV3V,2019-02-17T13:49:05Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PKCQV3V,2019-02-17T13:49:05Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PKCQV3V,2019-02-17T13:49:05Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PKCQV3V,2019-02-17T13:49:05Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PKCQV3V,2019-02-17T13:49:05Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PKCQV3V,2019-02-17T13:49:05Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PKCQV3V,2019-02-17T13:50:03Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PKCQV3V,2019-02-17T13:50:03Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PKCQV3V,2019-02-17T14:44:33Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+P4VDVKX,2019-02-17T14:06:22Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P4VDVKX,2019-02-17T14:06:22Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P4VDVKX,2019-02-17T14:06:22Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P4VDVKX,2019-02-17T14:06:22Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P4VDVKX,2019-02-17T14:06:23Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P4VDVKX,2019-02-17T14:06:23Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P4VDVKX,2019-02-17T14:06:40Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P4VDVKX,2019-02-17T14:26:26Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+P4VDVKX,2019-02-17T17:38:45Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+P4VDVKX,2019-02-17T17:38:46Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+P7FZH0Z,2019-02-17T14:08:25Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P7FZH0Z,2019-02-17T14:08:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P7FZH0Z,2019-02-17T14:08:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P7FZH0Z,2019-02-17T14:08:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P7FZH0Z,2019-02-17T14:08:26Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P7FZH0Z,2019-02-17T14:08:26Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P7FZH0Z,2019-02-17T14:09:37Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P7FZH0Z,2019-02-17T14:09:37Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P7FZH0Z,2019-02-17T14:11:15Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P7FZH0Z,2019-02-17T14:11:15Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P7FZH0Z,2019-02-17T14:51:37Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+P7FZH0Z,2019-02-17T14:51:41Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PFEAVY4,2019-02-17T14:09:36Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PFEAVY4,2019-02-17T14:09:36Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PFEAVY4,2019-02-17T14:09:36Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PFEAVY4,2019-02-17T14:09:36Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PFEAVY4,2019-02-17T14:09:37Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PFEAVY4,2019-02-17T14:09:37Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PFEAVY4,2019-02-17T14:11:28Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PFEAVY4,2019-02-17T14:11:28Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PFEAVY4,2019-02-17T14:44:58Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+POQ2OZA,2019-02-17T14:30:33Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+POQ2OZA,2019-02-17T14:30:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+POQ2OZA,2019-02-17T14:30:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+POQ2OZA,2019-02-17T14:30:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+POQ2OZA,2019-02-17T14:30:33Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+POQ2OZA,2019-02-17T14:30:33Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+POQ2OZA,2019-02-17T14:33:29Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+POQ2OZA,2019-02-17T14:50:05Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+POQ2OZA,2019-02-17T14:50:10Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+P4NMP6N,2019-02-17T16:50:47Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P4NMP6N,2019-02-17T16:50:47Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P4NMP6N,2019-02-17T16:50:47Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P4NMP6N,2019-02-17T16:50:47Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P4NMP6N,2019-02-17T16:50:48Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P4NMP6N,2019-02-17T16:50:48Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P4NMP6N,2019-02-17T16:51:09Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P4NMP6N,2019-02-17T23:45:20Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+P4NMP6N,2019-02-18T15:15:06Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+P4NMP6N,2019-02-18T15:15:10Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PW6WHUM,2019-02-17T17:46:16Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PW6WHUM,2019-02-17T17:46:16Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PW6WHUM,2019-02-17T17:46:16Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PW6WHUM,2019-02-17T17:46:16Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PW6WHUM,2019-02-17T17:46:17Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PW6WHUM,2019-02-17T17:46:17Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PW6WHUM,2019-02-17T17:46:42Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PW6WHUM,2019-02-17T17:48:52Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PW6WHUM,2019-02-17T23:37:31Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PW6WHUM,2019-02-17T23:37:31Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PW6WHUM,2019-02-19T13:51:10Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PW6WHUM,2019-02-19T13:51:16Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+P6RUE10,2019-02-17T19:06:09Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P6RUE10,2019-02-17T19:06:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P6RUE10,2019-02-17T19:06:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P6RUE10,2019-02-17T19:06:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P6RUE10,2019-02-17T19:06:10Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P6RUE10,2019-02-17T19:06:10Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P6RUE10,2019-02-17T19:07:00Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P6RUE10,2019-02-17T19:14:27Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+P6RUE10,2019-02-17T19:25:53Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Resolved by Tyler Wilber
+PBOBPMN,2019-02-17T20:31:32Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PBOBPMN,2019-02-17T20:31:32Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PBOBPMN,2019-02-17T20:31:32Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PBOBPMN,2019-02-17T20:31:32Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PBOBPMN,2019-02-17T20:31:32Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PBOBPMN,2019-02-17T20:31:32Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PBOBPMN,2019-02-17T20:31:41Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PBOBPMN,2019-02-17T23:50:18Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PBOBPMN,2019-02-19T04:01:01Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PBOBPMN,2019-02-19T04:01:04Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Resolved by Tyler Wilber
+PJEQMSI,2019-02-17T22:21:48Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PJEQMSI,2019-02-17T22:21:48Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PJEQMSI,2019-02-17T22:21:48Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PJEQMSI,2019-02-17T22:21:48Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PJEQMSI,2019-02-17T22:21:49Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PJEQMSI,2019-02-17T22:21:49Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PJEQMSI,2019-02-17T22:22:06Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PJEQMSI,2019-02-17T23:51:12Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PJEQMSI,2019-02-17T23:51:16Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PTD36A9,2019-02-18T00:08:06Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PTD36A9,2019-02-18T00:08:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PTD36A9,2019-02-18T00:08:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PTD36A9,2019-02-18T00:08:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PTD36A9,2019-02-18T00:08:07Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PTD36A9,2019-02-18T00:08:07Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PTD36A9,2019-02-18T00:08:36Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PTD36A9,2019-02-18T00:22:17Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PTD36A9,2019-02-18T00:22:20Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Resolved by Tyler Wilber
+PRDEGMF,2019-02-18T14:00:56Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PRDEGMF,2019-02-18T14:00:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PRDEGMF,2019-02-18T14:00:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PRDEGMF,2019-02-18T14:00:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PRDEGMF,2019-02-18T14:00:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PRDEGMF,2019-02-18T14:00:57Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PRDEGMF,2019-02-18T14:00:57Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PRDEGMF,2019-02-18T14:00:57Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PRDEGMF,2019-02-18T14:00:57Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PRDEGMF,2019-02-18T14:00:57Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PRDEGMF,2019-02-18T14:00:58Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PRDEGMF,2019-02-18T14:01:01Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PRDEGMF,2019-02-18T14:01:20Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PRDEGMF,2019-02-18T14:01:39Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PRDEGMF,2019-02-18T14:28:29Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PRDEGMF,2019-02-18T14:28:32Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PXQSD2V,2019-02-18T14:01:04Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PXQSD2V,2019-02-18T14:01:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PXQSD2V,2019-02-18T14:01:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PXQSD2V,2019-02-18T14:01:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PXQSD2V,2019-02-18T14:01:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PXQSD2V,2019-02-18T14:01:39Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PXQSD2V,2019-02-18T14:01:40Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PXQSD2V,2019-02-18T14:01:40Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PXQSD2V,2019-02-18T14:01:41Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PXQSD2V,2019-02-18T14:01:41Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PXQSD2V,2019-02-18T14:01:43Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PXQSD2V,2019-02-18T14:01:59Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PXQSD2V,2019-02-18T14:02:19Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PXQSD2V,2019-02-18T14:02:21Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PXQSD2V,2019-02-18T14:41:04Z,resolve_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Resolved by Gabby De La Torre
+PIANIU3,2019-02-24T21:25:01Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PIANIU3,2019-02-24T21:25:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PIANIU3,2019-02-24T21:25:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PIANIU3,2019-02-24T21:25:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PIANIU3,2019-02-24T21:25:02Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PIANIU3,2019-02-24T21:25:02Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PIANIU3,2019-02-24T21:26:49Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PIANIU3,2019-02-24T21:26:49Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PIANIU3,2019-02-24T23:23:26Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PBIZLTF,2019-02-25T13:05:49Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PBIZLTF,2019-02-25T13:05:49Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PBIZLTF,2019-02-25T13:05:49Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PBIZLTF,2019-02-25T13:05:49Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PBIZLTF,2019-02-25T13:05:51Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PBIZLTF,2019-02-25T13:05:51Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PBIZLTF,2019-02-25T13:05:51Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PBIZLTF,2019-02-25T13:06:27Z,acknowledge_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Acknowledged by Gabby De La Torre
+PBIZLTF,2019-02-25T17:26:26Z,resolve_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Resolved by Gabby De La Torre
+PUVQ6D1,2019-02-25T14:20:09Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PUVQ6D1,2019-02-25T14:20:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PUVQ6D1,2019-02-25T14:20:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PUVQ6D1,2019-02-25T14:20:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PUVQ6D1,2019-02-25T14:20:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PUVQ6D1,2019-02-25T14:20:10Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PUVQ6D1,2019-02-25T14:20:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PUVQ6D1,2019-02-25T14:20:10Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PUVQ6D1,2019-02-25T14:20:10Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PUVQ6D1,2019-02-25T14:20:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PUVQ6D1,2019-02-25T14:20:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PUVQ6D1,2019-02-25T14:20:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PUVQ6D1,2019-02-25T14:20:39Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PUVQ6D1,2019-02-25T14:20:41Z,acknowledge_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Acknowledged by Gabby De La Torre
+PUVQ6D1,2019-02-25T14:20:55Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PUVQ6D1,2019-02-25T18:01:49Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PUVQ6D1,2019-02-25T18:01:52Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PZT0ICO,2019-02-25T14:44:57Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PZT0ICO,2019-02-25T14:44:57Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PZT0ICO,2019-02-25T14:44:57Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PZT0ICO,2019-02-25T14:44:57Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PZT0ICO,2019-02-25T14:44:57Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PZT0ICO,2019-02-25T14:44:57Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PZT0ICO,2019-02-25T14:44:58Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PZT0ICO,2019-02-25T14:44:58Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PZT0ICO,2019-02-25T14:44:58Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PZT0ICO,2019-02-25T14:44:58Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PZT0ICO,2019-02-25T14:44:58Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PZT0ICO,2019-02-25T14:44:58Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PZT0ICO,2019-02-25T14:44:58Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PZT0ICO,2019-02-25T14:44:58Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PZT0ICO,2019-02-25T14:45:02Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PZT0ICO,2019-02-25T14:45:24Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PZT0ICO,2019-02-25T14:45:39Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PZT0ICO,2019-02-25T14:49:32Z,assign_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Assigned to Tyler Wilber by Tyler Wilber
+PZT0ICO,2019-02-25T14:49:33Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PZT0ICO,2019-02-25T14:49:33Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PZT0ICO,2019-02-25T14:49:40Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PZT0ICO,2019-02-25T15:27:03Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PZT0ICO,2019-02-25T15:27:58Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PZT0ICO,2019-02-25T15:28:03Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PY7T773,2019-02-25T16:31:30Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PY7T773,2019-02-25T16:31:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PY7T773,2019-02-25T16:31:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PY7T773,2019-02-25T16:31:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PY7T773,2019-02-25T16:31:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PY7T773,2019-02-25T16:31:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PY7T773,2019-02-25T16:31:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PY7T773,2019-02-25T16:31:31Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PY7T773,2019-02-25T16:31:31Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PY7T773,2019-02-25T16:31:31Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PY7T773,2019-02-25T16:31:31Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PY7T773,2019-02-25T16:31:31Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PY7T773,2019-02-25T16:31:32Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PY7T773,2019-02-25T16:31:32Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PY7T773,2019-02-25T16:31:32Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PY7T773,2019-02-25T16:31:32Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PY7T773,2019-02-25T16:31:32Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PY7T773,2019-02-25T16:31:35Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PY7T773,2019-02-25T16:31:48Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PY7T773,2019-02-25T16:31:58Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PY7T773,2019-02-25T16:32:10Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PY7T773,2019-02-25T16:40:11Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PY7T773,2019-02-25T16:40:11Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PR4O2YH,2019-02-25T16:32:19Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PR4O2YH,2019-02-25T16:32:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PR4O2YH,2019-02-25T16:32:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PR4O2YH,2019-02-25T16:32:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PR4O2YH,2019-02-25T16:32:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PR4O2YH,2019-02-25T16:32:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PR4O2YH,2019-02-25T16:32:19Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PR4O2YH,2019-02-25T16:32:21Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PR4O2YH,2019-02-25T16:32:21Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PR4O2YH,2019-02-25T16:32:21Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PR4O2YH,2019-02-25T16:32:21Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PR4O2YH,2019-02-25T16:32:21Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PR4O2YH,2019-02-25T16:32:21Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PR4O2YH,2019-02-25T16:32:21Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PR4O2YH,2019-02-25T16:32:22Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PR4O2YH,2019-02-25T16:32:24Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PR4O2YH,2019-02-25T16:32:38Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PR4O2YH,2019-02-25T16:32:53Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PR4O2YH,2019-02-25T16:33:28Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PR4O2YH,2019-02-25T16:45:41Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PR4O2YH,2019-02-25T16:45:44Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PW3IR2E,2019-02-25T17:05:30Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PW3IR2E,2019-02-25T17:05:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PW3IR2E,2019-02-25T17:05:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PW3IR2E,2019-02-25T17:05:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PW3IR2E,2019-02-25T17:05:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PW3IR2E,2019-02-25T17:05:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PW3IR2E,2019-02-25T17:05:30Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PW3IR2E,2019-02-25T17:05:31Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PW3IR2E,2019-02-25T17:05:34Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PW3IR2E,2019-02-25T17:05:53Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PW3IR2E,2019-02-25T17:06:13Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PW3IR2E,2019-02-25T18:42:47Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Resolved by Brett Lindsey
+PW3IR2E,2019-02-25T18:43:11Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PZ38RJP,2019-02-25T18:22:10Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PZ38RJP,2019-02-25T18:22:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PZ38RJP,2019-02-25T18:22:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PZ38RJP,2019-02-25T18:22:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PZ38RJP,2019-02-25T18:22:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PZ38RJP,2019-02-25T18:22:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PZ38RJP,2019-02-25T18:22:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PZ38RJP,2019-02-25T18:22:11Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PZ38RJP,2019-02-25T18:22:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PZ38RJP,2019-02-25T18:22:11Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PZ38RJP,2019-02-25T18:22:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PZ38RJP,2019-02-25T18:22:11Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PZ38RJP,2019-02-25T18:22:11Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PZ38RJP,2019-02-25T18:22:11Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PZ38RJP,2019-02-25T18:22:11Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PZ38RJP,2019-02-25T18:22:12Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PZ38RJP,2019-02-25T18:22:12Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PZ38RJP,2019-02-25T18:22:14Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PZ38RJP,2019-02-25T18:22:49Z,acknowledge_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Acknowledged by Gabby De La Torre
+PZ38RJP,2019-02-25T18:37:15Z,resolve_log_entry,PXLZNYT,Gabby De La Torre,N/A,mobile,Resolved by Gabby De La Torre
+PZ38RJP,2019-02-25T18:37:39Z,annotate_log_entry,PXLZNYT,Gabby De La Torre,N/A,note,Note added by Gabby De La Torre
+PDL53ED,2019-02-25T18:30:06Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PDL53ED,2019-02-25T18:30:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PDL53ED,2019-02-25T18:30:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PDL53ED,2019-02-25T18:30:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PDL53ED,2019-02-25T18:30:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PDL53ED,2019-02-25T18:30:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PDL53ED,2019-02-25T18:30:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PDL53ED,2019-02-25T18:30:07Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PDL53ED,2019-02-25T18:30:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PDL53ED,2019-02-25T18:30:29Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PDL53ED,2019-02-25T18:30:47Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PDL53ED,2019-02-25T18:33:34Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Resolved by Brett Lindsey
+PDL53ED,2019-02-25T18:33:52Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+P8SFA3Y,2019-02-25T18:42:17Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P8SFA3Y,2019-02-25T18:42:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P8SFA3Y,2019-02-25T18:42:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P8SFA3Y,2019-02-25T18:42:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P8SFA3Y,2019-02-25T18:42:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P8SFA3Y,2019-02-25T18:42:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P8SFA3Y,2019-02-25T18:42:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P8SFA3Y,2019-02-25T18:42:18Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P8SFA3Y,2019-02-25T18:42:18Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P8SFA3Y,2019-02-25T18:42:18Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P8SFA3Y,2019-02-25T18:42:18Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P8SFA3Y,2019-02-25T18:42:18Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P8SFA3Y,2019-02-25T18:42:18Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P8SFA3Y,2019-02-25T18:42:18Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P8SFA3Y,2019-02-25T18:42:18Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P8SFA3Y,2019-02-25T18:42:18Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P8SFA3Y,2019-02-25T18:42:19Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P8SFA3Y,2019-02-25T18:42:21Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P8SFA3Y,2019-02-25T18:42:38Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+P8SFA3Y,2019-02-25T18:42:59Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P8SFA3Y,2019-02-25T18:47:10Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Resolved by Brett Lindsey
+P8SFA3Y,2019-02-25T18:47:52Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+P098YQW,2019-02-25T19:05:34Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P098YQW,2019-02-25T19:05:34Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P098YQW,2019-02-25T19:05:34Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P098YQW,2019-02-25T19:05:34Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P098YQW,2019-02-25T19:05:34Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P098YQW,2019-02-25T19:05:34Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P098YQW,2019-02-25T19:05:34Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P098YQW,2019-02-25T19:05:35Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P098YQW,2019-02-25T19:05:38Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P098YQW,2019-02-25T19:06:23Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P098YQW,2019-02-25T19:06:23Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P098YQW,2019-02-25T19:06:23Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P098YQW,2019-02-25T21:45:23Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+P098YQW,2019-02-25T21:45:27Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+P0KP4OZ,2019-02-25T19:17:32Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P0KP4OZ,2019-02-25T19:17:32Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P0KP4OZ,2019-02-25T19:17:32Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P0KP4OZ,2019-02-25T19:17:32Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P0KP4OZ,2019-02-25T19:17:32Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P0KP4OZ,2019-02-25T19:17:32Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P0KP4OZ,2019-02-25T19:17:32Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P0KP4OZ,2019-02-25T19:17:33Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P0KP4OZ,2019-02-25T19:17:33Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P0KP4OZ,2019-02-25T19:17:33Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P0KP4OZ,2019-02-25T19:17:33Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P0KP4OZ,2019-02-25T19:17:33Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P0KP4OZ,2019-02-25T19:17:33Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P0KP4OZ,2019-02-25T19:17:33Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P0KP4OZ,2019-02-25T19:17:34Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P0KP4OZ,2019-02-25T19:17:34Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P0KP4OZ,2019-02-25T19:17:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P0KP4OZ,2019-02-25T19:17:36Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P0KP4OZ,2019-02-25T19:17:44Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P0KP4OZ,2019-02-25T19:17:44Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P0KP4OZ,2019-02-25T19:18:05Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+P0KP4OZ,2019-02-25T19:18:18Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PXAMMA1,2019-02-25T21:17:03Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PXAMMA1,2019-02-25T21:17:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PXAMMA1,2019-02-25T21:17:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PXAMMA1,2019-02-25T21:17:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PXAMMA1,2019-02-25T21:17:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PXAMMA1,2019-02-25T21:17:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PXAMMA1,2019-02-25T21:17:03Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PXAMMA1,2019-02-25T21:17:03Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PXAMMA1,2019-02-25T21:17:03Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PXAMMA1,2019-02-25T21:17:03Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PXAMMA1,2019-02-25T21:17:04Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PXAMMA1,2019-02-25T21:17:04Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PXAMMA1,2019-02-25T21:17:04Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PXAMMA1,2019-02-25T21:17:07Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PXAMMA1,2019-02-25T21:21:36Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,sms,Acknowledged by Tyler Wilber
+PXAMMA1,2019-02-25T21:48:11Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PXAMMA1,2019-02-26T16:42:08Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PXAMMA1,2019-02-26T16:42:14Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PVM3HIO,2019-02-26T00:28:20Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PVM3HIO,2019-02-26T00:28:20Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PVM3HIO,2019-02-26T00:28:20Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PVM3HIO,2019-02-26T00:28:20Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PVM3HIO,2019-02-26T00:28:21Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PVM3HIO,2019-02-26T00:28:21Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PVM3HIO,2019-02-26T00:28:32Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PVM3HIO,2019-02-26T00:31:18Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PVM3HIO,2019-02-27T17:52:51Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PVM3HIO,2019-02-27T17:52:58Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PC4I38D,2019-02-26T03:10:42Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PC4I38D,2019-02-26T03:10:42Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PC4I38D,2019-02-26T03:10:42Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PC4I38D,2019-02-26T03:10:42Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PC4I38D,2019-02-26T03:10:42Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PC4I38D,2019-02-26T03:10:43Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PC4I38D,2019-02-26T03:11:29Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PC4I38D,2019-02-26T03:11:29Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PC4I38D,2019-02-26T04:04:30Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PC4I38D,2019-02-26T04:04:38Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PIS7I5X,2019-02-26T03:42:01Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PIS7I5X,2019-02-26T03:42:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PIS7I5X,2019-02-26T03:42:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PIS7I5X,2019-02-26T03:42:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PIS7I5X,2019-02-26T03:42:01Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PIS7I5X,2019-02-26T03:42:01Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PIS7I5X,2019-02-26T03:42:24Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PIS7I5X,2019-02-26T03:42:24Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PIS7I5X,2019-02-26T04:03:15Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PNPM8H3,2019-02-26T04:22:18Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PNPM8H3,2019-02-26T04:22:18Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PNPM8H3,2019-02-26T04:22:18Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PNPM8H3,2019-02-26T04:22:18Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PNPM8H3,2019-02-26T04:22:19Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PNPM8H3,2019-02-26T04:22:19Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PNPM8H3,2019-02-26T04:22:57Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PNPM8H3,2019-02-26T06:04:54Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Resolved by Tyler Wilber
+PEF7ZYM,2019-02-26T11:15:27Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PEF7ZYM,2019-02-26T11:15:27Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PEF7ZYM,2019-02-26T11:15:27Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PEF7ZYM,2019-02-26T11:15:27Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PEF7ZYM,2019-02-26T11:15:28Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PEF7ZYM,2019-02-26T11:15:28Z,notify_log_entry,PQD096D,Tyler Wilber,phone,auto,Notified Tyler Wilber by phone
+PEF7ZYM,2019-02-26T11:15:28Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PEF7ZYM,2019-02-26T11:16:04Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PEF7ZYM,2019-02-26T11:16:04Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PEF7ZYM,2019-02-26T13:36:47Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PEF7ZYM,2019-02-26T13:38:05Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PAHTE8N,2019-02-26T11:36:48Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PAHTE8N,2019-02-26T11:36:48Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PAHTE8N,2019-02-26T11:36:48Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PAHTE8N,2019-02-26T11:36:48Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PAHTE8N,2019-02-26T11:36:48Z,notify_log_entry,PQD096D,Tyler Wilber,phone,auto,Notified Tyler Wilber by phone
+PAHTE8N,2019-02-26T11:36:48Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PAHTE8N,2019-02-26T11:36:49Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PAHTE8N,2019-02-26T11:37:08Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PAHTE8N,2019-02-26T11:37:08Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PAHTE8N,2019-02-26T12:06:35Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PB69L5N,2019-02-26T13:39:59Z,trigger_log_entry,N/A,N/A,N/A,web_trigger,Triggered through the website
+PB69L5N,2019-02-26T13:39:59Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PB69L5N,2019-02-26T13:39:59Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,website,Acknowledged by Tyler Wilber
+PB69L5N,2019-02-26T16:44:04Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PB69L5N,2019-02-26T16:44:07Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PPKFWZ3,2019-02-26T13:41:35Z,trigger_log_entry,N/A,N/A,N/A,web_trigger,Triggered through the website
+PPKFWZ3,2019-02-26T13:41:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PPKFWZ3,2019-02-26T13:41:36Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,website,Acknowledged by Tyler Wilber
+PPKFWZ3,2019-02-26T16:58:04Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PPKFWZ3,2019-02-26T16:58:07Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PB1TA38,2019-02-26T14:01:45Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PB1TA38,2019-02-26T14:01:45Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PB1TA38,2019-02-26T14:01:45Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PB1TA38,2019-02-26T14:01:45Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PB1TA38,2019-02-26T14:01:45Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PB1TA38,2019-02-26T14:01:45Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PB1TA38,2019-02-26T14:01:46Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PB1TA38,2019-02-26T14:01:46Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PB1TA38,2019-02-26T14:01:46Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PB1TA38,2019-02-26T14:01:46Z,notify_log_entry,PQD096D,Tyler Wilber,phone,auto,Notified Tyler Wilber by phone
+PB1TA38,2019-02-26T14:01:46Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PB1TA38,2019-02-26T14:01:49Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PB1TA38,2019-02-26T14:02:01Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PB1TA38,2019-02-26T14:02:14Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PB1TA38,2019-02-26T14:05:03Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PB1TA38,2019-02-26T14:05:10Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Resolved by Tyler Wilber
+PC1AZU2,2019-02-26T14:16:33Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PC1AZU2,2019-02-26T14:16:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PC1AZU2,2019-02-26T14:16:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PC1AZU2,2019-02-26T14:16:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PC1AZU2,2019-02-26T14:16:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PC1AZU2,2019-02-26T14:16:34Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PC1AZU2,2019-02-26T14:16:34Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PC1AZU2,2019-02-26T14:16:34Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PC1AZU2,2019-02-26T14:16:34Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PC1AZU2,2019-02-26T14:16:34Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PC1AZU2,2019-02-26T14:16:37Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PC1AZU2,2019-02-26T14:16:50Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PC1AZU2,2019-02-26T14:16:50Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PC1AZU2,2019-02-26T14:24:59Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PC1AZU2,2019-02-26T14:25:04Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+P0YTQCO,2019-02-26T15:23:01Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P0YTQCO,2019-02-26T15:23:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P0YTQCO,2019-02-26T15:23:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P0YTQCO,2019-02-26T15:23:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P0YTQCO,2019-02-26T15:23:01Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P0YTQCO,2019-02-26T15:23:02Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P0YTQCO,2019-02-26T15:23:02Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P0YTQCO,2019-02-26T15:23:02Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P0YTQCO,2019-02-26T15:23:02Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P0YTQCO,2019-02-26T15:23:02Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P0YTQCO,2019-02-26T15:23:05Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P0YTQCO,2019-02-26T15:23:17Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P0YTQCO,2019-02-26T15:31:42Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+P0YTQCO,2019-02-26T15:31:45Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+P5YVD7Z,2019-02-26T15:35:25Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P5YVD7Z,2019-02-26T15:35:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P5YVD7Z,2019-02-26T15:35:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P5YVD7Z,2019-02-26T15:35:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P5YVD7Z,2019-02-26T15:35:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P5YVD7Z,2019-02-26T15:35:26Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P5YVD7Z,2019-02-26T15:35:26Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P5YVD7Z,2019-02-26T15:35:26Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P5YVD7Z,2019-02-26T15:35:26Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P5YVD7Z,2019-02-26T15:35:26Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P5YVD7Z,2019-02-26T15:35:27Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P5YVD7Z,2019-02-26T15:35:44Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P5YVD7Z,2019-02-26T15:52:37Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+P5YVD7Z,2019-02-26T15:52:40Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+P58O918,2019-03-06T23:08:33Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P58O918,2019-03-06T23:08:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P58O918,2019-03-06T23:08:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P58O918,2019-03-06T23:08:33Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P58O918,2019-03-06T23:08:34Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P58O918,2019-03-06T23:08:34Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P58O918,2019-03-06T23:08:48Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+P58O918,2019-03-07T00:08:17Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+P58O918,2019-03-07T00:08:17Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+P2F2EA5,2019-03-06T23:10:10Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P2F2EA5,2019-03-06T23:10:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P2F2EA5,2019-03-06T23:10:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P2F2EA5,2019-03-06T23:10:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P2F2EA5,2019-03-06T23:10:11Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P2F2EA5,2019-03-06T23:10:11Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P2F2EA5,2019-03-06T23:11:15Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+P2F2EA5,2019-03-06T23:16:25Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+P2F2EA5,2019-03-06T23:16:26Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PTMEMVC,2019-03-07T11:55:12Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PTMEMVC,2019-03-07T11:55:12Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PTMEMVC,2019-03-07T11:55:12Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PTMEMVC,2019-03-07T11:55:12Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PTMEMVC,2019-03-07T11:55:13Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PTMEMVC,2019-03-07T11:55:13Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PTMEMVC,2019-03-07T11:55:52Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PTMEMVC,2019-03-07T13:37:52Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PTMEMVC,2019-03-07T14:53:02Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Resolved by Tyler Wilber
+PYI37EX,2019-03-07T13:28:42Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PYI37EX,2019-03-07T13:28:42Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PYI37EX,2019-03-07T13:28:42Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PYI37EX,2019-03-07T13:28:42Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PYI37EX,2019-03-07T13:28:42Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PYI37EX,2019-03-07T13:28:42Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PYI37EX,2019-03-07T13:28:57Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PYI37EX,2019-03-07T13:38:43Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PYI37EX,2019-03-07T13:39:17Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+P3SRQ9J,2019-03-07T14:08:00Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P3SRQ9J,2019-03-07T14:08:00Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P3SRQ9J,2019-03-07T14:08:00Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P3SRQ9J,2019-03-07T14:08:00Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P3SRQ9J,2019-03-07T14:08:00Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P3SRQ9J,2019-03-07T14:08:00Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P3SRQ9J,2019-03-07T14:08:00Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P3SRQ9J,2019-03-07T14:08:00Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P3SRQ9J,2019-03-07T14:08:00Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P3SRQ9J,2019-03-07T14:08:00Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P3SRQ9J,2019-03-07T14:08:00Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P3SRQ9J,2019-03-07T14:08:01Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P3SRQ9J,2019-03-07T14:08:02Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P3SRQ9J,2019-03-07T14:08:05Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P3SRQ9J,2019-03-07T14:08:30Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P3SRQ9J,2019-03-07T14:08:30Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P3SRQ9J,2019-03-07T16:10:00Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+P3SRQ9J,2019-03-07T16:16:15Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PH1WEGC,2019-03-07T14:51:35Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PH1WEGC,2019-03-07T14:51:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PH1WEGC,2019-03-07T14:51:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PH1WEGC,2019-03-07T14:51:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PH1WEGC,2019-03-07T14:51:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PH1WEGC,2019-03-07T14:51:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PH1WEGC,2019-03-07T14:51:36Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PH1WEGC,2019-03-07T14:51:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PH1WEGC,2019-03-07T14:51:36Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PH1WEGC,2019-03-07T14:51:36Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PH1WEGC,2019-03-07T14:51:36Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PH1WEGC,2019-03-07T14:51:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PH1WEGC,2019-03-07T14:51:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PH1WEGC,2019-03-07T14:51:39Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PH1WEGC,2019-03-07T14:51:56Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PH1WEGC,2019-03-07T14:56:40Z,annotate_log_entry,PXLZNYT,Gabby De La Torre,N/A,note,Note added by Gabby De La Torre
+PH1WEGC,2019-03-07T14:56:40Z,resolve_log_entry,PXLZNYT,Gabby De La Torre,N/A,website,Resolved by Gabby De La Torre
+P5GU5FR,2019-03-07T14:51:52Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P5GU5FR,2019-03-07T14:51:52Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P5GU5FR,2019-03-07T14:51:52Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P5GU5FR,2019-03-07T14:51:52Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5GU5FR,2019-03-07T14:51:52Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5GU5FR,2019-03-07T14:51:52Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5GU5FR,2019-03-07T14:52:14Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P5GU5FR,2019-03-07T14:52:17Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P5GU5FR,2019-03-07T14:52:18Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P5GU5FR,2019-03-07T14:52:18Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P5GU5FR,2019-03-07T14:52:20Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P5GU5FR,2019-03-07T14:52:23Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P5GU5FR,2019-03-07T14:52:25Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P5GU5FR,2019-03-07T14:52:35Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P5GU5FR,2019-03-07T14:52:49Z,acknowledge_log_entry,PXLZNYT,Gabby De La Torre,N/A,website,Acknowledged by Gabby De La Torre
+P5GU5FR,2019-03-07T14:52:50Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P5GU5FR,2019-03-07T14:56:03Z,annotate_log_entry,PXLZNYT,Gabby De La Torre,N/A,note,Note added by Gabby De La Torre
+P5GU5FR,2019-03-07T14:56:04Z,resolve_log_entry,PXLZNYT,Gabby De La Torre,N/A,website,Resolved by Gabby De La Torre
+P6CFYAH,2019-03-07T15:17:46Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P6CFYAH,2019-03-07T15:17:46Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P6CFYAH,2019-03-07T15:17:46Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P6CFYAH,2019-03-07T15:17:46Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P6CFYAH,2019-03-07T15:17:46Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P6CFYAH,2019-03-07T15:17:46Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P6CFYAH,2019-03-07T15:17:46Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P6CFYAH,2019-03-07T15:17:47Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P6CFYAH,2019-03-07T15:18:03Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+P6CFYAH,2019-03-07T15:18:06Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P6CFYAH,2019-03-07T15:30:46Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+P6CFYAH,2019-03-07T15:31:38Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+P5CM296,2019-03-07T15:54:23Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P5CM296,2019-03-07T15:54:23Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P5CM296,2019-03-07T15:54:23Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P5CM296,2019-03-07T15:54:23Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P5CM296,2019-03-07T15:54:23Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5CM296,2019-03-07T15:54:23Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5CM296,2019-03-07T15:54:23Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5CM296,2019-03-07T15:54:23Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P5CM296,2019-03-07T15:54:23Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P5CM296,2019-03-07T15:54:24Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P5CM296,2019-03-07T15:54:24Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P5CM296,2019-03-07T15:54:24Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P5CM296,2019-03-07T15:54:24Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P5CM296,2019-03-07T15:54:24Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P5CM296,2019-03-07T15:54:24Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P5CM296,2019-03-07T15:54:24Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P5CM296,2019-03-07T15:54:27Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P5CM296,2019-03-07T15:54:41Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P5CM296,2019-03-07T15:54:41Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P5CM296,2019-03-07T16:09:08Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PFZKLB0,2019-03-07T16:04:40Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PFZKLB0,2019-03-07T16:04:40Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PFZKLB0,2019-03-07T16:04:40Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PFZKLB0,2019-03-07T16:04:40Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PFZKLB0,2019-03-07T16:04:40Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PFZKLB0,2019-03-07T16:04:40Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PFZKLB0,2019-03-07T16:04:40Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PFZKLB0,2019-03-07T16:04:41Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PFZKLB0,2019-03-07T16:04:41Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PFZKLB0,2019-03-07T16:04:41Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PFZKLB0,2019-03-07T16:04:41Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PFZKLB0,2019-03-07T16:04:41Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PFZKLB0,2019-03-07T16:04:41Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PFZKLB0,2019-03-07T16:04:41Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PFZKLB0,2019-03-07T16:04:42Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PFZKLB0,2019-03-07T16:04:42Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PFZKLB0,2019-03-07T16:04:44Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PFZKLB0,2019-03-07T16:04:54Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PFZKLB0,2019-03-07T17:05:20Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PFZKLB0,2019-03-10T15:33:33Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PFZKLB0,2019-03-10T15:33:35Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PVO6A48,2019-03-07T16:19:51Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PVO6A48,2019-03-07T16:19:51Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PVO6A48,2019-03-07T16:19:51Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PVO6A48,2019-03-07T16:19:51Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PVO6A48,2019-03-07T16:19:51Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PVO6A48,2019-03-07T16:19:51Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PVO6A48,2019-03-07T16:19:51Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PVO6A48,2019-03-07T16:19:52Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PVO6A48,2019-03-07T16:19:52Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PVO6A48,2019-03-07T16:19:52Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PVO6A48,2019-03-07T16:19:52Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PVO6A48,2019-03-07T16:19:52Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PVO6A48,2019-03-07T16:19:52Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PVO6A48,2019-03-07T16:19:52Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PVO6A48,2019-03-07T16:19:52Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PVO6A48,2019-03-07T16:19:52Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PVO6A48,2019-03-07T16:19:55Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PVO6A48,2019-03-07T16:20:21Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PVO6A48,2019-03-07T16:51:12Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PVO6A48,2019-03-07T16:51:12Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PEY7FEC,2019-03-07T16:30:07Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PEY7FEC,2019-03-07T16:30:07Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PEY7FEC,2019-03-07T16:30:07Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PEY7FEC,2019-03-07T16:30:07Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PEY7FEC,2019-03-07T16:30:07Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PEY7FEC,2019-03-07T16:30:07Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PEY7FEC,2019-03-07T16:30:07Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PEY7FEC,2019-03-07T16:30:08Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PEY7FEC,2019-03-07T16:30:08Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PEY7FEC,2019-03-07T16:30:08Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PEY7FEC,2019-03-07T16:30:08Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PEY7FEC,2019-03-07T16:30:08Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PEY7FEC,2019-03-07T16:30:08Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PEY7FEC,2019-03-07T16:30:08Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PEY7FEC,2019-03-07T16:30:08Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PEY7FEC,2019-03-07T16:30:09Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PEY7FEC,2019-03-07T16:30:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PEY7FEC,2019-03-07T16:30:30Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PEY7FEC,2019-03-07T16:44:35Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PEY7FEC,2019-03-07T16:44:40Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PJ53N2D,2019-03-07T16:47:35Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PJ53N2D,2019-03-07T16:47:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PJ53N2D,2019-03-07T16:47:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PJ53N2D,2019-03-07T16:47:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PJ53N2D,2019-03-07T16:47:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PJ53N2D,2019-03-07T16:47:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PJ53N2D,2019-03-07T16:47:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PJ53N2D,2019-03-07T16:47:36Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PJ53N2D,2019-03-07T16:47:36Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PJ53N2D,2019-03-07T16:47:36Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PJ53N2D,2019-03-07T16:47:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PJ53N2D,2019-03-07T16:47:36Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PJ53N2D,2019-03-07T16:47:36Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PJ53N2D,2019-03-07T16:47:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PJ53N2D,2019-03-07T16:47:36Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PJ53N2D,2019-03-07T16:47:39Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PJ53N2D,2019-03-07T16:47:43Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PJ53N2D,2019-03-07T16:47:50Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PJ53N2D,2019-03-07T17:03:54Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PJ53N2D,2019-03-07T17:03:58Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PR1F1G2,2019-03-07T16:54:55Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PR1F1G2,2019-03-07T16:54:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PR1F1G2,2019-03-07T16:54:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PR1F1G2,2019-03-07T16:54:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PR1F1G2,2019-03-07T16:54:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PR1F1G2,2019-03-07T16:54:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PR1F1G2,2019-03-07T16:54:55Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PR1F1G2,2019-03-07T16:54:55Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PR1F1G2,2019-03-07T16:54:55Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PR1F1G2,2019-03-07T16:54:55Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PR1F1G2,2019-03-07T16:54:55Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PR1F1G2,2019-03-07T16:54:55Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PR1F1G2,2019-03-07T16:54:55Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PR1F1G2,2019-03-07T16:54:56Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PR1F1G2,2019-03-07T16:54:56Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PR1F1G2,2019-03-07T16:54:56Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PR1F1G2,2019-03-07T16:54:59Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PR1F1G2,2019-03-07T16:55:09Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PR1F1G2,2019-03-07T16:55:18Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PR1F1G2,2019-03-07T16:58:10Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Resolved by Brett Lindsey
+PR1F1G2,2019-03-07T16:58:27Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PYM44VM,2019-03-07T17:02:18Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PYM44VM,2019-03-07T17:02:18Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PYM44VM,2019-03-07T17:02:18Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PYM44VM,2019-03-07T17:02:18Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PYM44VM,2019-03-07T17:02:18Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PYM44VM,2019-03-07T17:02:18Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PYM44VM,2019-03-07T17:02:18Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PYM44VM,2019-03-07T17:02:19Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PYM44VM,2019-03-07T17:02:20Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PYM44VM,2019-03-07T17:02:20Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PYM44VM,2019-03-07T17:02:20Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PYM44VM,2019-03-07T17:02:20Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PYM44VM,2019-03-07T17:02:20Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PYM44VM,2019-03-07T17:02:20Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PYM44VM,2019-03-07T17:02:20Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PYM44VM,2019-03-07T17:02:20Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PYM44VM,2019-03-07T17:02:23Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PYM44VM,2019-03-07T17:02:55Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PYM44VM,2019-03-07T17:10:13Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PYM44VM,2019-03-07T17:10:13Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+POZS1SW,2019-03-07T17:25:56Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+POZS1SW,2019-03-07T17:25:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+POZS1SW,2019-03-07T17:25:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+POZS1SW,2019-03-07T17:25:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+POZS1SW,2019-03-07T17:25:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+POZS1SW,2019-03-07T17:25:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+POZS1SW,2019-03-07T17:25:56Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+POZS1SW,2019-03-07T17:25:57Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+POZS1SW,2019-03-07T17:25:57Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+POZS1SW,2019-03-07T17:25:57Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+POZS1SW,2019-03-07T17:25:57Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+POZS1SW,2019-03-07T17:25:57Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+POZS1SW,2019-03-07T17:25:57Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+POZS1SW,2019-03-07T17:25:57Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+POZS1SW,2019-03-07T17:25:57Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+POZS1SW,2019-03-07T17:25:58Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+POZS1SW,2019-03-07T17:26:00Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+POZS1SW,2019-03-07T17:26:12Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+POZS1SW,2019-03-07T17:36:01Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+POZS1SW,2019-03-07T17:36:03Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+P5UYQ4F,2019-03-07T17:57:08Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P5UYQ4F,2019-03-07T17:57:08Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P5UYQ4F,2019-03-07T17:57:08Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P5UYQ4F,2019-03-07T17:57:08Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P5UYQ4F,2019-03-07T17:57:08Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5UYQ4F,2019-03-07T17:57:08Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5UYQ4F,2019-03-07T17:57:08Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5UYQ4F,2019-03-07T17:57:08Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P5UYQ4F,2019-03-07T17:57:08Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P5UYQ4F,2019-03-07T17:57:08Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P5UYQ4F,2019-03-07T17:57:09Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P5UYQ4F,2019-03-07T17:57:09Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P5UYQ4F,2019-03-07T17:57:09Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P5UYQ4F,2019-03-07T17:57:09Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P5UYQ4F,2019-03-07T17:57:09Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P5UYQ4F,2019-03-07T17:57:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P5UYQ4F,2019-03-07T17:57:12Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P5UYQ4F,2019-03-07T17:57:21Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P5UYQ4F,2019-03-07T18:04:20Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+P5UYQ4F,2019-03-07T18:04:24Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PICZ7SU,2019-03-07T18:08:53Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PICZ7SU,2019-03-07T18:08:53Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PICZ7SU,2019-03-07T18:08:53Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PICZ7SU,2019-03-07T18:08:53Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PICZ7SU,2019-03-07T18:08:53Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PICZ7SU,2019-03-07T18:08:53Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PICZ7SU,2019-03-07T18:08:53Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PICZ7SU,2019-03-07T18:08:53Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PICZ7SU,2019-03-07T18:08:53Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PICZ7SU,2019-03-07T18:08:54Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PICZ7SU,2019-03-07T18:08:54Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PICZ7SU,2019-03-07T18:08:54Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PICZ7SU,2019-03-07T18:08:54Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PICZ7SU,2019-03-07T18:08:54Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PICZ7SU,2019-03-07T18:08:54Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PICZ7SU,2019-03-07T18:08:54Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PICZ7SU,2019-03-07T18:08:54Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PICZ7SU,2019-03-07T18:09:06Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PICZ7SU,2019-03-07T18:09:07Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PICZ7SU,2019-03-07T18:11:05Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Resolved by Brett Lindsey
+PICZ7SU,2019-03-07T18:11:44Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PRA26QA,2019-03-07T18:59:12Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PRA26QA,2019-03-07T18:59:12Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PRA26QA,2019-03-07T18:59:12Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PRA26QA,2019-03-07T18:59:12Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PRA26QA,2019-03-07T18:59:12Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PRA26QA,2019-03-07T18:59:12Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PRA26QA,2019-03-07T18:59:12Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PRA26QA,2019-03-07T18:59:13Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PRA26QA,2019-03-07T18:59:13Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PRA26QA,2019-03-07T18:59:13Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PRA26QA,2019-03-07T18:59:13Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PRA26QA,2019-03-07T18:59:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PRA26QA,2019-03-07T18:59:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PRA26QA,2019-03-07T18:59:13Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PRA26QA,2019-03-07T18:59:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PRA26QA,2019-03-07T18:59:13Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PRA26QA,2019-03-07T18:59:16Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PRA26QA,2019-03-07T18:59:27Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PRA26QA,2019-03-07T18:59:27Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PRA26QA,2019-03-07T22:11:54Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PRA26QA,2019-03-07T22:11:55Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PZUEZXJ,2019-03-07T20:38:17Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PZUEZXJ,2019-03-07T20:38:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PZUEZXJ,2019-03-07T20:38:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PZUEZXJ,2019-03-07T20:38:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PZUEZXJ,2019-03-07T20:38:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PZUEZXJ,2019-03-07T20:38:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PZUEZXJ,2019-03-07T20:38:18Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PZUEZXJ,2019-03-07T20:38:18Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PZUEZXJ,2019-03-07T20:38:18Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PZUEZXJ,2019-03-07T20:38:18Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PZUEZXJ,2019-03-07T20:38:18Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PZUEZXJ,2019-03-07T20:38:18Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PZUEZXJ,2019-03-07T20:38:18Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PZUEZXJ,2019-03-07T20:38:21Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PZUEZXJ,2019-03-07T20:38:40Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PZUEZXJ,2019-03-07T20:38:40Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PZUEZXJ,2019-03-07T22:11:26Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PRJAUZT,2019-03-07T20:50:37Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PRJAUZT,2019-03-07T20:50:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PRJAUZT,2019-03-07T20:50:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PRJAUZT,2019-03-07T20:50:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PRJAUZT,2019-03-07T20:50:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PRJAUZT,2019-03-07T20:50:37Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PRJAUZT,2019-03-07T20:50:38Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PRJAUZT,2019-03-07T20:50:38Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PRJAUZT,2019-03-07T20:50:38Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PRJAUZT,2019-03-07T20:50:38Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PRJAUZT,2019-03-07T20:50:38Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PRJAUZT,2019-03-07T20:50:38Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PRJAUZT,2019-03-07T20:50:39Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PRJAUZT,2019-03-07T20:50:41Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PRJAUZT,2019-03-07T20:50:54Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PRJAUZT,2019-03-07T22:12:22Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PRJAUZT,2019-03-07T22:12:22Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PUUDQTJ,2019-03-07T20:54:15Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PUUDQTJ,2019-03-07T20:54:15Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PUUDQTJ,2019-03-07T20:54:15Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PUUDQTJ,2019-03-07T20:54:15Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PUUDQTJ,2019-03-07T20:54:15Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PUUDQTJ,2019-03-07T20:54:15Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PUUDQTJ,2019-03-07T20:54:16Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PUUDQTJ,2019-03-07T20:54:16Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PUUDQTJ,2019-03-07T20:54:16Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PUUDQTJ,2019-03-07T20:54:16Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PUUDQTJ,2019-03-07T20:54:16Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PUUDQTJ,2019-03-07T20:54:16Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PUUDQTJ,2019-03-07T20:54:16Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PUUDQTJ,2019-03-07T20:54:20Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PUUDQTJ,2019-03-07T20:54:30Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PUUDQTJ,2019-03-07T22:12:46Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PUUDQTJ,2019-03-07T22:12:46Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PQ1NQLU,2019-03-08T00:51:34Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PQ1NQLU,2019-03-08T00:51:34Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PQ1NQLU,2019-03-08T00:51:34Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PQ1NQLU,2019-03-08T00:51:34Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PQ1NQLU,2019-03-08T00:51:35Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PQ1NQLU,2019-03-08T00:51:35Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PQ1NQLU,2019-03-08T00:51:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PQ1NQLU,2019-03-08T00:51:38Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PQ1NQLU,2019-03-08T00:52:03Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PQ1NQLU,2019-03-08T03:44:34Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,mobile,Resolved by Stuart Harmon
+PQ1NQLU,2019-03-08T03:48:46Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PXI1WKX,2019-03-08T11:41:39Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PXI1WKX,2019-03-08T11:41:39Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PXI1WKX,2019-03-08T11:41:39Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PXI1WKX,2019-03-08T11:41:39Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PXI1WKX,2019-03-08T11:41:39Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PXI1WKX,2019-03-08T11:41:39Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PXI1WKX,2019-03-08T11:41:39Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PXI1WKX,2019-03-08T11:41:42Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PXI1WKX,2019-03-08T11:41:42Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PXI1WKX,2019-03-08T11:41:42Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PXI1WKX,2019-03-08T11:51:40Z,notify_log_entry,P8XQYKW,Rick Dworaczyk,ios_push_notification,auto,Notified Rick Dworaczyk by push notification
+PXI1WKX,2019-03-08T11:51:40Z,notify_log_entry,P8XQYKW,Rick Dworaczyk,sms,auto,Notified Rick Dworaczyk by SMS
+PXI1WKX,2019-03-08T11:51:40Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PXI1WKX,2019-03-08T11:51:40Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PXI1WKX,2019-03-08T11:51:40Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PXI1WKX,2019-03-08T11:51:41Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PXI1WKX,2019-03-08T11:52:22Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PXI1WKX,2019-03-08T11:52:23Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PXI1WKX,2019-03-08T11:52:26Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PXI1WKX,2019-03-08T11:53:27Z,acknowledge_log_entry,P8XQYKW,Rick Dworaczyk,N/A,mobile,Acknowledged by Rick Dworaczyk
+PXI1WKX,2019-03-08T12:08:35Z,resolve_log_entry,P8XQYKW,Rick Dworaczyk,N/A,mobile,Resolved by Rick Dworaczyk
+P9HX72Y,2019-03-08T11:52:08Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P9HX72Y,2019-03-08T11:52:08Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P9HX72Y,2019-03-08T11:52:08Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P9HX72Y,2019-03-08T11:52:08Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P9HX72Y,2019-03-08T11:52:22Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P9HX72Y,2019-03-08T11:52:23Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P9HX72Y,2019-03-08T11:52:26Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P9HX72Y,2019-03-08T11:53:57Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P9HX72Y,2019-03-08T11:59:26Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Rick Dworaczyk
+P9HX72Y,2019-03-08T11:59:26Z,acknowledge_log_entry,P8XQYKW,Rick Dworaczyk,N/A,website,Acknowledged by Rick Dworaczyk
+P9HX72Y,2019-03-08T12:08:45Z,resolve_log_entry,P8XQYKW,Rick Dworaczyk,N/A,mobile,Resolved by Rick Dworaczyk
+P9HX72Y,2019-03-08T12:10:03Z,annotate_log_entry,P8XQYKW,Rick Dworaczyk,N/A,note,Note added by Rick Dworaczyk
+PFER6NH,2019-03-13T16:44:47Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PFER6NH,2019-03-13T16:44:47Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PFER6NH,2019-03-13T16:44:47Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PFER6NH,2019-03-13T16:44:47Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PFER6NH,2019-03-13T16:44:47Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PFER6NH,2019-03-13T16:44:47Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PFER6NH,2019-03-13T16:44:47Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PFER6NH,2019-03-13T16:44:47Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PFER6NH,2019-03-13T16:44:47Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PFER6NH,2019-03-13T16:44:47Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PFER6NH,2019-03-13T16:44:47Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PFER6NH,2019-03-13T16:44:48Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PFER6NH,2019-03-13T16:44:48Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PFER6NH,2019-03-13T16:44:51Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PFER6NH,2019-03-13T16:44:59Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PFER6NH,2019-03-13T16:48:32Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PFER6NH,2019-03-13T20:07:32Z,assign_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Assigned to Brett Lindsey by Stuart Harmon
+PFER6NH,2019-03-13T20:07:32Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PFER6NH,2019-03-13T20:07:32Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PFER6NH,2019-03-13T20:07:36Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PFER6NH,2019-03-13T20:07:36Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Acknowledged by Stuart Harmon
+PFER6NH,2019-03-13T20:16:50Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PFER6NH,2019-03-13T20:16:51Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PKUXL1Y,2019-03-13T17:03:25Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PKUXL1Y,2019-03-13T17:03:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PKUXL1Y,2019-03-13T17:03:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PKUXL1Y,2019-03-13T17:03:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PKUXL1Y,2019-03-13T17:03:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PKUXL1Y,2019-03-13T17:03:25Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PKUXL1Y,2019-03-13T17:03:26Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PKUXL1Y,2019-03-13T17:03:26Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PKUXL1Y,2019-03-13T17:03:26Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PKUXL1Y,2019-03-13T17:03:26Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PKUXL1Y,2019-03-13T17:03:26Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PKUXL1Y,2019-03-13T17:03:26Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PKUXL1Y,2019-03-13T17:03:26Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PKUXL1Y,2019-03-13T17:03:29Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PKUXL1Y,2019-03-13T17:03:38Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PKUXL1Y,2019-03-13T17:10:33Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PKUXL1Y,2019-03-13T17:10:37Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PGL6V65,2019-03-13T17:57:10Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PGL6V65,2019-03-13T17:57:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PGL6V65,2019-03-13T17:57:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PGL6V65,2019-03-13T17:57:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PGL6V65,2019-03-13T17:57:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PGL6V65,2019-03-13T17:57:10Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PGL6V65,2019-03-13T17:57:11Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PGL6V65,2019-03-13T17:57:11Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PGL6V65,2019-03-13T17:57:11Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PGL6V65,2019-03-13T17:57:11Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PGL6V65,2019-03-13T17:57:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PGL6V65,2019-03-13T17:57:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PGL6V65,2019-03-13T17:57:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PGL6V65,2019-03-13T17:57:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PGL6V65,2019-03-13T17:57:23Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PGL6V65,2019-03-13T20:08:03Z,assign_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Assigned to Brett Lindsey by Stuart Harmon
+PGL6V65,2019-03-13T20:08:15Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PGL6V65,2019-03-13T20:08:17Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PGL6V65,2019-03-13T20:14:51Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PGL6V65,2019-03-13T20:14:51Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+P3HRWZV,2019-03-13T19:41:35Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P3HRWZV,2019-03-13T19:41:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P3HRWZV,2019-03-13T19:41:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P3HRWZV,2019-03-13T19:41:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P3HRWZV,2019-03-13T19:41:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P3HRWZV,2019-03-13T19:41:35Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P3HRWZV,2019-03-13T19:41:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P3HRWZV,2019-03-13T19:41:36Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P3HRWZV,2019-03-13T19:41:36Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P3HRWZV,2019-03-13T19:41:36Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P3HRWZV,2019-03-13T19:41:37Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P3HRWZV,2019-03-13T19:41:37Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P3HRWZV,2019-03-13T19:41:37Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P3HRWZV,2019-03-13T19:41:40Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P3HRWZV,2019-03-13T19:41:46Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P3HRWZV,2019-03-13T19:48:41Z,acknowledge_log_entry,PXLZNYT,Gabby De La Torre,N/A,website,Acknowledged by Gabby De La Torre
+P3HRWZV,2019-03-13T19:49:17Z,annotate_log_entry,PXLZNYT,Gabby De La Torre,N/A,note,Note added by Gabby De La Torre
+P3HRWZV,2019-03-13T19:49:18Z,resolve_log_entry,PXLZNYT,Gabby De La Torre,N/A,website,Resolved by Gabby De La Torre
+P5QZF8K,2019-03-13T19:51:50Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P5QZF8K,2019-03-13T19:51:50Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P5QZF8K,2019-03-13T19:51:50Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P5QZF8K,2019-03-13T19:51:50Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5QZF8K,2019-03-13T19:51:50Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5QZF8K,2019-03-13T19:51:50Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P5QZF8K,2019-03-13T19:51:51Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P5QZF8K,2019-03-13T19:51:51Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P5QZF8K,2019-03-13T19:51:51Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P5QZF8K,2019-03-13T19:51:51Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P5QZF8K,2019-03-13T19:51:51Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P5QZF8K,2019-03-13T19:51:51Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P5QZF8K,2019-03-13T19:51:51Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P5QZF8K,2019-03-13T19:51:51Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P5QZF8K,2019-03-13T19:52:12Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P5QZF8K,2019-03-13T20:06:16Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+P5QZF8K,2019-03-14T12:51:49Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+P5QZF8K,2019-03-14T12:51:53Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PC5NYJZ,2019-03-13T22:12:14Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PC5NYJZ,2019-03-13T22:12:14Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PC5NYJZ,2019-03-13T22:12:14Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PC5NYJZ,2019-03-13T22:12:14Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PC5NYJZ,2019-03-13T22:12:14Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PC5NYJZ,2019-03-13T22:12:14Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PC5NYJZ,2019-03-13T22:12:30Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PC5NYJZ,2019-03-13T22:16:45Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PC5NYJZ,2019-03-13T22:16:45Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PFTNZV6,2019-03-14T11:44:06Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PFTNZV6,2019-03-14T11:44:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PFTNZV6,2019-03-14T11:44:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PFTNZV6,2019-03-14T11:44:06Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PFTNZV6,2019-03-14T11:44:06Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PFTNZV6,2019-03-14T11:44:06Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PFTNZV6,2019-03-14T11:44:33Z,acknowledge_log_entry,PQD096D,Tyler Wilber,N/A,mobile,Acknowledged by Tyler Wilber
+PFTNZV6,2019-03-14T13:38:23Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PFTNZV6,2019-03-14T13:42:09Z,resolve_log_entry,PQD096D,Tyler Wilber,N/A,website,Resolved by Tyler Wilber
+PFTNZV6,2019-03-14T17:57:49Z,annotate_log_entry,PQD096D,Tyler Wilber,N/A,note,Note added by Tyler Wilber
+PA9XOEF,2019-03-14T15:49:31Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PA9XOEF,2019-03-14T15:49:31Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PA9XOEF,2019-03-14T15:49:31Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PA9XOEF,2019-03-14T15:49:31Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PA9XOEF,2019-03-14T15:49:31Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PA9XOEF,2019-03-14T15:49:31Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PA9XOEF,2019-03-14T15:49:31Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PA9XOEF,2019-03-14T15:49:32Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PA9XOEF,2019-03-14T15:49:50Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PA9XOEF,2019-03-14T15:50:00Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PA9XOEF,2019-03-14T16:01:14Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PA9XOEF,2019-03-14T16:01:15Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PTJGMD8,2019-03-14T16:02:09Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PTJGMD8,2019-03-14T16:02:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PTJGMD8,2019-03-14T16:02:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PTJGMD8,2019-03-14T16:02:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PTJGMD8,2019-03-14T16:02:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PTJGMD8,2019-03-14T16:02:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PTJGMD8,2019-03-14T16:02:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PTJGMD8,2019-03-14T16:02:10Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PTJGMD8,2019-03-14T16:02:10Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PTJGMD8,2019-03-14T16:02:10Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PTJGMD8,2019-03-14T16:02:10Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PTJGMD8,2019-03-14T16:02:10Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PTJGMD8,2019-03-14T16:02:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PTJGMD8,2019-03-14T16:02:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PTJGMD8,2019-03-14T16:02:10Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PTJGMD8,2019-03-14T16:02:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PTJGMD8,2019-03-14T16:02:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PTJGMD8,2019-03-14T16:02:23Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PTJGMD8,2019-03-14T16:08:39Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PTJGMD8,2019-03-14T16:08:45Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+P3W1KSJ,2019-03-14T16:07:22Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P3W1KSJ,2019-03-14T16:07:22Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P3W1KSJ,2019-03-14T16:07:22Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P3W1KSJ,2019-03-14T16:07:22Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P3W1KSJ,2019-03-14T16:07:22Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P3W1KSJ,2019-03-14T16:07:22Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P3W1KSJ,2019-03-14T16:07:22Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P3W1KSJ,2019-03-14T16:07:23Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P3W1KSJ,2019-03-14T16:07:23Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P3W1KSJ,2019-03-14T16:07:23Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P3W1KSJ,2019-03-14T16:07:23Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P3W1KSJ,2019-03-14T16:07:23Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P3W1KSJ,2019-03-14T16:07:23Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P3W1KSJ,2019-03-14T16:07:23Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P3W1KSJ,2019-03-14T16:07:23Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P3W1KSJ,2019-03-14T16:07:23Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P3W1KSJ,2019-03-14T16:07:26Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P3W1KSJ,2019-03-14T16:07:33Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P3W1KSJ,2019-03-14T16:13:11Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+P3W1KSJ,2019-03-14T16:13:12Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+PU5CVS0,2019-03-14T16:38:04Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PU5CVS0,2019-03-14T16:38:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PU5CVS0,2019-03-14T16:38:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PU5CVS0,2019-03-14T16:38:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PU5CVS0,2019-03-14T16:38:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PU5CVS0,2019-03-14T16:38:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PU5CVS0,2019-03-14T16:38:04Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PU5CVS0,2019-03-14T16:38:05Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PU5CVS0,2019-03-14T16:38:05Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PU5CVS0,2019-03-14T16:38:05Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PU5CVS0,2019-03-14T16:38:05Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PU5CVS0,2019-03-14T16:38:05Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PU5CVS0,2019-03-14T16:38:05Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PU5CVS0,2019-03-14T16:38:05Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PU5CVS0,2019-03-14T16:38:06Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PU5CVS0,2019-03-14T16:38:06Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PU5CVS0,2019-03-14T16:38:08Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PU5CVS0,2019-03-14T16:38:19Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PU5CVS0,2019-03-14T16:41:47Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PU5CVS0,2019-03-14T16:41:50Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PC0S2PE,2019-03-14T16:49:17Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PC0S2PE,2019-03-14T16:49:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PC0S2PE,2019-03-14T16:49:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PC0S2PE,2019-03-14T16:49:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PC0S2PE,2019-03-14T16:49:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PC0S2PE,2019-03-14T16:49:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PC0S2PE,2019-03-14T16:49:17Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+PC0S2PE,2019-03-14T16:49:17Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+PC0S2PE,2019-03-14T16:49:17Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PC0S2PE,2019-03-14T16:49:17Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PC0S2PE,2019-03-14T16:49:17Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PC0S2PE,2019-03-14T16:49:17Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PC0S2PE,2019-03-14T16:49:17Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PC0S2PE,2019-03-14T16:49:18Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PC0S2PE,2019-03-14T16:49:18Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+PC0S2PE,2019-03-14T16:49:18Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PC0S2PE,2019-03-14T16:49:21Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PC0S2PE,2019-03-14T16:49:36Z,acknowledge_log_entry,PBXKONG,Brett Lindsey,N/A,mobile,Acknowledged by Brett Lindsey
+PC0S2PE,2019-03-14T16:57:11Z,annotate_log_entry,PBXKONG,Brett Lindsey,N/A,note,Note added by Brett Lindsey
+PC0S2PE,2019-03-14T16:57:11Z,resolve_log_entry,PBXKONG,Brett Lindsey,N/A,website,Resolved by Brett Lindsey
+P33S6P4,2019-03-14T18:14:11Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P33S6P4,2019-03-14T18:14:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+P33S6P4,2019-03-14T18:14:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P33S6P4,2019-03-14T18:14:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+P33S6P4,2019-03-14T18:14:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P33S6P4,2019-03-14T18:14:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P33S6P4,2019-03-14T18:14:11Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Gabby De La Torre
+P33S6P4,2019-03-14T18:14:12Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+P33S6P4,2019-03-14T18:14:12Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+P33S6P4,2019-03-14T18:14:12Z,notify_log_entry,PXLZNYT,Gabby De La Torre,sms,auto,Notified Gabby De La Torre by SMS
+P33S6P4,2019-03-14T18:14:12Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+P33S6P4,2019-03-14T18:14:12Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P33S6P4,2019-03-14T18:14:12Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P33S6P4,2019-03-14T18:14:12Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+P33S6P4,2019-03-14T18:14:12Z,notify_log_entry,PXLZNYT,Gabby De La Torre,android_push_notification,auto,Notified Gabby De La Torre by push notification
+P33S6P4,2019-03-14T18:14:12Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P33S6P4,2019-03-14T18:14:15Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P33S6P4,2019-03-14T18:14:26Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P33S6P4,2019-03-14T18:22:10Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+P33S6P4,2019-03-14T18:22:16Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PKDWNN3,2019-03-14T19:31:03Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PKDWNN3,2019-03-14T19:31:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Brett Lindsey
+PKDWNN3,2019-03-14T19:31:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PKDWNN3,2019-03-14T19:31:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PKDWNN3,2019-03-14T19:31:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PKDWNN3,2019-03-14T19:31:03Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Tyler Wilber
+PKDWNN3,2019-03-14T19:31:04Z,notify_log_entry,PBXKONG,Brett Lindsey,ios_push_notification,auto,Notified Brett Lindsey by push notification
+PKDWNN3,2019-03-14T19:31:04Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PKDWNN3,2019-03-14T19:31:04Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PKDWNN3,2019-03-14T19:31:04Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PKDWNN3,2019-03-14T19:31:04Z,notify_log_entry,PBXKONG,Brett Lindsey,sms,auto,Notified Brett Lindsey by SMS
+PKDWNN3,2019-03-14T19:31:04Z,notify_log_entry,PQD096D,Tyler Wilber,sms,auto,Notified Tyler Wilber by SMS
+PKDWNN3,2019-03-14T19:31:04Z,notify_log_entry,PQD096D,Tyler Wilber,ios_push_notification,auto,Notified Tyler Wilber by push notification
+PKDWNN3,2019-03-14T19:31:07Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PKDWNN3,2019-03-14T19:31:21Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PKDWNN3,2019-03-14T19:34:56Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PKDWNN3,2019-03-14T20:01:31Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PKDWNN3,2019-03-14T20:01:34Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+PGF4UKU,2019-03-15T00:27:13Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+PGF4UKU,2019-03-15T00:27:13Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PGF4UKU,2019-03-15T00:27:13Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PGF4UKU,2019-03-15T00:27:13Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+PGF4UKU,2019-03-15T00:27:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+PGF4UKU,2019-03-15T00:27:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+PGF4UKU,2019-03-15T00:27:14Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+PGF4UKU,2019-03-15T00:27:17Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+PGF4UKU,2019-03-15T00:27:55Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+PGF4UKU,2019-03-15T13:06:51Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+PGF4UKU,2019-03-15T13:06:56Z,resolve_log_entry,PUPO9J3,Stuart Harmon,N/A,website,Resolved by Stuart Harmon
+P8OXWV2,2019-03-15T00:56:09Z,trigger_log_entry,N/A,N/A,N/A,api,Triggered through the API
+P8OXWV2,2019-03-15T00:56:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P8OXWV2,2019-03-15T00:56:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P8OXWV2,2019-03-15T00:56:09Z,assign_log_entry,PP9YZ7F,Bill Miller IT Pager,N/A,auto,Assigned to Stuart Harmon
+P8OXWV2,2019-03-15T00:56:09Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P8OXWV2,2019-03-15T00:56:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P8OXWV2,2019-03-15T00:56:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P8OXWV2,2019-03-15T00:56:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P8OXWV2,2019-03-15T00:56:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P8OXWV2,2019-03-15T00:56:13Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P8OXWV2,2019-03-15T01:06:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,phone,auto,Notified Stuart Harmon by phone
+P8OXWV2,2019-03-15T01:06:10Z,notify_log_entry,PUPO9J3,Stuart Harmon,android_push_notification,auto,Notified Stuart Harmon by push notification
+P8OXWV2,2019-03-15T01:06:10Z,notify_log_entry,PKJVDI2,Robert Collazo,android_push_notification,auto,Notified Robert Collazo by push notification
+P8OXWV2,2019-03-15T01:06:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,sms,auto,Notified Stuart Harmon by SMS
+P8OXWV2,2019-03-15T01:06:11Z,notify_log_entry,PKJVDI2,Robert Collazo,sms,auto,Notified Robert Collazo by SMS
+P8OXWV2,2019-03-15T01:06:11Z,notify_log_entry,PKJVDI2,Robert Collazo,email,auto,Notified Robert Collazo by email
+P8OXWV2,2019-03-15T01:06:11Z,notify_log_entry,PUPO9J3,Stuart Harmon,email,auto,Notified Stuart Harmon by email
+P8OXWV2,2019-03-15T01:06:33Z,acknowledge_log_entry,PUPO9J3,Stuart Harmon,N/A,phone,Acknowledged by Stuart Harmon
+P8OXWV2,2019-03-15T13:07:45Z,annotate_log_entry,PUPO9J3,Stuart Harmon,N/A,note,Note added by Stuart Harmon
+P8OXWV2,2019-03-15T18:24:55Z,resolve_log_entry,PXLZNYT,Gabby De La Torre,N/A,website,Resolved by Gabby De La Torre
