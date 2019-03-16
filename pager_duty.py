@@ -43,6 +43,7 @@ from urllib3.connectionpool import xrange
 def get_incident_count(since, until, headers):
     # Retrieve the count of incidents in a given time-period, as an 'int'.
     # Dates should be in the format 'YYYY-MM-DD'.
+    print("Getting incidents count")
     payload = {
         'since': since,
         'until': until
@@ -56,6 +57,7 @@ def get_incident_ids(since, until, headers, ea_hun=None):
     # Based on an incident-count used to create an 'offset',
     # retrieve incident-IDs, in batches-of-100, and return as a list.
     # Dates should be in the format 'YYYY-MM-DD'.
+    print("Getting incident ids")
     id_list = []
     count = get_incident_count(since, until, headers)
     get_incident_ids_url = 'https://api.pagerduty.com/incidents'
@@ -71,25 +73,35 @@ def get_incident_ids(since, until, headers, ea_hun=None):
 def get_details_by_incident(api_key, filename='pagerduty_export', since='', until=date.today()):
     # Based on a list of incident-IDs, retrieve incident details.
     # Process json-payload and output to CSV file.
+    print("Getting incident details")
     headers = {
         'Accept': 'application/vnd.pagerduty+json;version=2',
         'Authorization': 'Token token=' + api_key
     }
     id_list = get_incident_ids(since, until, headers)
+    print("here")
     fin_file = open('{filename}.csv'.format(filename=filename), 'w')
-    fieldnames = ['incident_id', 'created_at', 'type', 'user_or_agent_id', 'user_or_agent_summary', 'notification_type',
+    fieldnames = ['Phone call from', 'created_at', 'type', 'user_or_agent_id', 'user_or_agent_summary', 'notification_type',
                   'channel_type', 'summary']
     writer = csv.DictWriter(fin_file, fieldnames=fieldnames)
     writer.writeheader()
+    print("after write")
     for ea_id in id_list:
-        r = requests.get('https://api.pagerduty.com/incidents/{0}/log_entries'.format(ea_id), headers=headers,
+        print("in for")
+        r = requests.get('https://api.pagerduty.com/incidents'.format(ea_id), headers=headers,
                          stream=True)
-        for ea_entry in reversed(r.json()['log_entries']):
+        print("after request")
+
+        for ea_entry in reversed(r.json()['incidents']):
+            print(ea_entry)
+            """
             if ea_entry['type'] != 'notify_log_entry_reference' and ea_entry['type'] != 'notify_log_entry':
+                print("1st if")
                 if ea_entry['channel']['type'] == 'nagios' or ea_entry['channel']['type'] == 'web_trigger' or \
                         ea_entry['channel']['type'] == 'email' or ea_entry['channel']['type'] == 'api':
+                    print("2nd if")
                     row = {
-                        'incident_id': ea_id,
+                        'Phone call from': ea_id,
                         'created_at': ea_entry['created_at'],
                         'type': ea_entry['type'],
                         'user_or_agent_id': 'N/A',
@@ -125,7 +137,7 @@ def get_details_by_incident(api_key, filename='pagerduty_export', since='', unti
                     'channel_type': ea_entry['channel']['type'],
                     'summary': ea_entry['summary']
                 }
-            writer.writerow(row)
+            writer.writerow(row) """
     print("Successfully created {filename}.csv!".format(filename=filename))
     fin_file.close()
 
