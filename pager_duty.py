@@ -11,10 +11,16 @@
 import csv
 import re
 import sys
+
 from datetime import date
 from datetime import datetime
 
 import requests
+
+
+def tag_count(tag):
+    # will create an dict holding the number of calls based off tags
+    return
 
 
 def clean_notes(note):
@@ -22,12 +28,34 @@ def clean_notes(note):
     note = note.split(':')
     try:
         note = note[1].split(',')
-        issue = (note[0]).strip(); solution = (note[1]).strip(); tag = ((note[2]).strip()).upper()
+        issue = (note[0]).strip();
+        solution = (note[1]).strip();
+        tag = ((note[2]).strip()).upper()
 
     except:
-        note = note[0].split(',')
-        issue = (note[0]).strip(); solution = (note[1]).strip(); tag = ((note[2]).strip()).upper()
-    return issue,solution,tag
+        try:
+            note = note[0].split(',')
+            issue = (note[0]).strip();
+            solution = (note[1]).strip();
+            tag = ((note[2]).strip()).upper()
+        except:
+            issue = note[0];
+            solution = '';
+            tag = ''
+    return issue, solution, tag
+
+
+def clean_source(call_back_num):
+    cleaned_source = call_back_num.strip('*')
+    regex1 = r"(^210|830|512|)(\d+)$"
+    if len(call_back_num) > 3:
+        try:
+            matches = re.match(regex1, call_back_num)
+            cleaned_source = store_number_dict[matches.group(2)]
+        except:
+            print("NOT A STORE NUMBER")
+            cleaned_source = call_back_num+'-NOT A STORE #'
+    return cleaned_source
 
 
 def get_incident_count(since, until, headers):
@@ -68,18 +96,12 @@ def get_details_by_incident(api_key, since='', until=date.today(), filename='pag
     writer = csv.DictWriter(fin_file, fieldnames=fieldnames)
     writer.writeheader()
     regex = r"(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2})"
-    regex1 = r"(^210|830|512|)(\d+)$"
+
     FMT = '%Y-%m-%dT%H:%M:%S'
     for ea_id in id_list:
         r = requests.get('https://api.pagerduty.com/incidents/{0}/alerts'.format(ea_id), headers=headers, stream=True)
         for ea_entry in reversed(r.json()['alerts']):
-            source = ea_entry['body']['details']['Call back']
-            if len(source) > 3:
-                try:
-                    matches = re.match(regex1, source)
-                    source = store_number_dict[matches.group(2)]
-                except:
-                    print("NOT A STORE NUMBER")
+            source = clean_source(ea_entry['body']['details']['Call back'])
             created_time = re.match(regex, ea_entry['created_at'])
             try:
                 resolve_time = re.match(regex, ea_entry['resolved_at'])
@@ -92,8 +114,9 @@ def get_details_by_incident(api_key, since='', until=date.today(), filename='pag
                              stream=True)
             for eb_entry in reversed(s.json()['notes']):
                 tech = eb_entry['user']['summary']
-                issue, solution,tag = clean_notes(eb_entry['content'])
-                print(issue, solution,tag)
+                issue, solution, tag = clean_notes(eb_entry['content'])
+                tag_count(tag)
+
             row = {
                 'source': source,
                 'create_time': created_time.group(1),
@@ -104,7 +127,8 @@ def get_details_by_incident(api_key, since='', until=date.today(), filename='pag
                 'duration': tdelta
             }
             writer.writerow(row)
-        # print('{0},{1},{2},{3},{4}'.format(source, ea_entry['created_at'], tech, note, tdelta))
+            print('{0},{1},{2},{3},{4},{5},{6}'.format(source, ea_entry['created_at'], tech, issue, solution, tag,
+                                                       tdelta))
     fin_file.close()
 
 
@@ -116,8 +140,6 @@ if __name__ == '__main__':
         reader = csv.reader(infile)
         tag_dict = {rows[1]: rows[0] for rows in reader}
     print(tag_dict)
-    with open('tags.csv', mode='r') as infile:
-        reader = csv.reader
     if len(sys.argv) == 1:
         print(
             'Error: You did not enter any parameters.\nUsage: ./get_incident_details_csv api_key [filename] [since] ['
