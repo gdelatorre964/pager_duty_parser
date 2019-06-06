@@ -1,12 +1,6 @@
 #!/usr/bin/env python
-#
-# Copyright (c) 2016, PagerDuty, Inc. <info@pagerduty.com>
-# Sample script to output incident details to a CSV in the format:
-# incident_id,created_at,type,user_or_agent_id,user_or_agent_summary,notification_type,channel_type,summary
-# CLI Usage: ./get_incident_details_csv api_key [since] [until]
-#   api_key: PagerDuty API access token
-#   since: Start date of incidents you want to pull in YYYY-MM-DD format
-#   until: End date of incidents you want to pull in YYYY-MM-DD format
+# Author: Gabriela De La Torre
+# 2019
 
 import csv
 import re
@@ -14,17 +8,20 @@ import sys
 
 from datetime import date
 from datetime import datetime
-
+from collections import Counter
 import requests
+from urllib3.connectionpool import xrange
 
+tag_list = []
+store_list = []
 
-def tag_count(tag):
-    # will create an dict holding the number of calls based off tags
+def keeping_count(a_list):
+    x = Counter(a_list)
+    print(x)
     return
 
 
 def clean_notes(note):
-    # will receive the entire note separated by commas, remove spaces and assign properly
     note = note.split(':')
     try:
         note = note[1].split(',')
@@ -53,14 +50,11 @@ def clean_source(call_back_num):
             matches = re.match(regex1, call_back_num)
             cleaned_source = store_number_dict[matches.group(2)]
         except:
-            print("NOT A STORE NUMBER")
-            cleaned_source = call_back_num+'-NOT A STORE #'
+            cleaned_source = call_back_num + '-NOT A STORE #'
     return cleaned_source
 
 
 def get_incident_count(since, until, headers):
-    # Retrieve the count of incidents in a given time-period, as an 'int'.
-    # Dates should be in the format 'YYYY-MM-DD'.
     payload = {
         'since': since,
         'until': until
@@ -70,17 +64,17 @@ def get_incident_count(since, until, headers):
     return int(r.json()['total'])
 
 
-def get_incident_ids(since, until, headers):
-    # Based on an incident-count used to create an 'offset',
-    # retrieve incident-IDs, in batches-of-100, and return as a list.
-    # Dates should be in the format 'YYYY-MM-DD'.
+def get_incident_ids(since, until, headers, ea_hun=None):
     id_list = []
     count = get_incident_count(since, until, headers)
     print('Number of incidents since ', since, ' to ', until, 'is', count)
-    get_incident_ids_url = 'https://api.pagerduty.com/incidents?'
+    get_incident_ids_url = 'https://api.pagerduty.com/incidents'
     payload = {'since': since, 'until': until}
-    r = requests.get(get_incident_ids_url, params=payload, headers=headers, stream=True)
-    id_list = id_list + [ea_inc['id'] for ea_inc in r.json()['incidents']]
+    for ea_hun in xrange(0, count) or int(ea_hun) == count:
+        if int(ea_hun) % 100 == 1:
+            payload['offset'] = ea_hun
+            r = requests.get(get_incident_ids_url, params=payload, headers=headers, stream=True)
+            id_list = id_list + [ea_inc['id'] for ea_inc in r.json()['incidents']]
     return id_list
 
 
@@ -90,8 +84,8 @@ def get_details_by_incident(api_key, since='', until=date.today(), filename='pag
         'Authorization': 'Token token=' + api_key
     }
     id_list = get_incident_ids(since, until, headers)
-    print(id_list)
-    fin_file = open('{filename}.csv'.format(filename=filename), 'w', newline='')
+
+    fin_file = open('{filename}.csv'.format(filename=filename), 'a+', newline='')
     fieldnames = ['source', 'create_time', 'tech', 'issue', 'solution', 'tag', 'duration']
     writer = csv.DictWriter(fin_file, fieldnames=fieldnames)
     writer.writeheader()
@@ -102,6 +96,7 @@ def get_details_by_incident(api_key, since='', until=date.today(), filename='pag
         r = requests.get('https://api.pagerduty.com/incidents/{0}/alerts'.format(ea_id), headers=headers, stream=True)
         for ea_entry in reversed(r.json()['alerts']):
             source = clean_source(ea_entry['body']['details']['Call back'])
+            store_list.append(source)
             created_time = re.match(regex, ea_entry['created_at'])
             try:
                 resolve_time = re.match(regex, ea_entry['resolved_at'])
@@ -112,10 +107,11 @@ def get_details_by_incident(api_key, since='', until=date.today(), filename='pag
 
             s = requests.get('https://api.pagerduty.com/incidents/{0}/notes'.format(ea_id), headers=headers,
                              stream=True)
+
             for eb_entry in reversed(s.json()['notes']):
                 tech = eb_entry['user']['summary']
                 issue, solution, tag = clean_notes(eb_entry['content'])
-                tag_count(tag)
+                tag_list.append(tag)
 
             row = {
                 'source': source,
@@ -127,8 +123,10 @@ def get_details_by_incident(api_key, since='', until=date.today(), filename='pag
                 'duration': tdelta
             }
             writer.writerow(row)
-            print('{0},{1},{2},{3},{4},{5},{6}'.format(source, ea_entry['created_at'], tech, issue, solution, tag,
-                                                       tdelta))
+            #print('{0},{1},{2},{3},{4},{5},{6}'.format(source, ea_entry['created_at'], tech, issue, solution, tag,
+             #                                          tdelta))
+    keeping_count(tag_list)
+    keeping_count(store_list)
     fin_file.close()
 
 
@@ -139,12 +137,17 @@ if __name__ == '__main__':
     with open('tags.csv', mode='r') as infile:
         reader = csv.reader(infile)
         tag_dict = {rows[1]: rows[0] for rows in reader}
-    print(tag_dict)
-    if len(sys.argv) == 1:
-        print(
-            'Error: You did not enter any parameters.\nUsage: ./get_incident_details_csv api_key [filename] [since] ['
-            'until]\n\tapi_key: PagerDuty API access token\n\tfilename: Name of the CSV file. Defaults to '
-            'pagerduty_export.\n\tsince: Start date of incidents you want to pull in YYYY-MM-DD format\n\tuntil: End '
-            'date of incidents you want to pull in YYYY-MM-DD format')
-    else:
-        get_details_by_incident(sys.argv[1], sys.argv[2], sys.argv[3])
+    week_ = 7
+    while week_:
+        week_-=1
+        from_,to_ = input('Insert dates').split()
+        if week_ == 6:
+            filename = from_
+        if len(sys.argv) == 1:
+            print(
+                'Error: You did not enter any parameters.\nUsage: ./get_incident_details_csv api_key [filename] [since] ['
+                'until]\n\tapi_key: PagerDuty API access token\n\tfilename: Name of the CSV file. Defaults to '
+                'pagerduty_export.\n\tsince: Start date of incidents you want to pull in YYYY-MM-DD format\n\tuntil: End '
+                'date of incidents you want to pull in YYYY-MM-DD format')
+        else:
+            get_details_by_incident(sys.argv[1], from_, to_, filename)

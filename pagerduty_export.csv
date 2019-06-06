@@ -1,0 +1,21 @@
+source,create_time,tech,issue,solution,tag,duration
+50,2019-06-04T06:31:09,Brett Lindsey,DT printer bad cutter,replaced printer,RP,6:59:44
+53,2019-06-04T06:49:06,Stuart Harmon,st 53 system down,they rebooted dt tablet and it locked up server,RICK WENT THERE,0:49:52
+50,2019-06-04T07:01:53,Stuart Harmon,st 50,asking about headsets,WD,0:37:58
+68,2019-06-04T07:35:39,Stuart Harmon,st 68 dt tablet won't connect,reset tablet,DTT,0:13:34
+53,2019-06-04T08:23:09,Stuart Harmon,st 53 tablet won't connect,didn't see any problems they were using tablet when i connected,DTT,0:39:10
+41,2019-06-04T08:53:18,Brett Lindsey,CD POS1 won’t close CD POS3 won’t fire,replaced printer on pos 3 and fixed CD ok POS1,EQUIPR,4:37:59
+23,2019-06-04T09:00:44,Stuart Harmon,st 23 monitor in office not on,they turned it on before i called back,W,0:04:12
+2,2019-06-04T09:34:10,Brett Lindsey,DD running slow,rebooted server,POSA,1:08:54
+8,2019-06-04T10:42:40,Brett Lindsey,Sent out 2 MMF keys,,EQUIPR,1:14:10
+2**50-NOT A STORE #,2019-06-04T10:49:17,Brett Lindsey,DTT tablet using accept and next,explained to say accept payment,DTT,1:07:06
+50,2019-06-04T10:49:34,Brett Lindsey,DTT tablet using accept and next,explained to say accept payment,DTT,1:06:49
+13,2019-06-04T11:23:49,Brett Lindsey,2 phones,delivered them,EQUIPR,22:30:27
+26,2019-06-04T11:50:00,Brett Lindsey,DTT internal error,reset hh1,DTT,0:05:47
+25,2019-06-04T12:47:49,Brett Lindsey,DTT questions,answered them,DTT,0:39:13
+14,2019-06-04T13:37:17,Brett Lindsey,Promo board white screen,rebooted screen,MB,1:02:13
+31,2019-06-04T14:39:05,Brett Lindsey,Someone flicked breaker server went down,ran a repair,P&R,0:32:39
+73,2019-06-04T15:05:46,Brett Lindsey,,,W,0:08:14
+31,2019-06-04T15:30:12,Stuart Harmon,st 31 mgr station no signal,had mgr turn on computer,POSQ,0:05:36
+70,2019-06-04T17:48:31,Brett Lindsey,Promo board and dr1 white screens,rebooted them,MB,0:08:51
+25,2019-06-04T18:46:38,Brett Lindsey,Lost power system down,brought them back up,SD,15:08:21
