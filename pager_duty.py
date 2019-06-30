@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # Author: Gabriela De La Torre
-# 2019
+# @2019
 
 import csv
 import re
 import sys
 
-from datetime import date
-from datetime import datetime
+from datetime import date, datetime, timedelta
+import pandas as pd
 from collections import Counter
 import requests
 from urllib3.connectionpool import xrange
@@ -15,10 +15,10 @@ from urllib3.connectionpool import xrange
 tag_list = []
 store_list = []
 
-def keeping_count(a_list):
-    x = Counter(a_list)
-    print(x)
-    return
+def daterange(d1, d2):
+    for n in range(int((d2 - d1).days) + 1):
+
+        yield d1 + timedelta(n)
 
 
 def clean_notes(note):
@@ -50,7 +50,7 @@ def clean_source(call_back_num):
             matches = re.match(regex1, call_back_num)
             cleaned_source = store_number_dict[matches.group(2)]
         except:
-            cleaned_source = call_back_num + '-NOT A STORE #'
+            cleaned_source = call_back_num + '-!STORE #'
     return cleaned_source
 
 
@@ -123,10 +123,9 @@ def get_details_by_incident(api_key, since='', until=date.today(), filename='pag
                 'duration': tdelta
             }
             writer.writerow(row)
-            #print('{0},{1},{2},{3},{4},{5},{6}'.format(source, ea_entry['created_at'], tech, issue, solution, tag,
-             #                                          tdelta))
-    keeping_count(tag_list)
-    keeping_count(store_list)
+
+    Counter(tag_list)
+    Counter(store_list)
     fin_file.close()
 
 
@@ -139,15 +138,14 @@ if __name__ == '__main__':
         tag_dict = {rows[1]: rows[0] for rows in reader}
     week_ = 7
     while week_:
-        week_-=1
-        from_,to_ = input('Insert dates').split()
+        week_ -= 1
+        from_, to_ = input('Insert dates:\n').split()
+        mydates = pd.date_range(from_, to_).tolist()
+        print(mydates)
         if week_ == 6:
             filename = from_
         if len(sys.argv) == 1:
             print(
-                'Error: You did not enter any parameters.\nUsage: ./get_incident_details_csv api_key [filename] [since] ['
-                'until]\n\tapi_key: PagerDuty API access token\n\tfilename: Name of the CSV file. Defaults to '
-                'pagerduty_export.\n\tsince: Start date of incidents you want to pull in YYYY-MM-DD format\n\tuntil: End '
-                'date of incidents you want to pull in YYYY-MM-DD format')
+                'Error: You did not enter the correct number of parameters.\n')
         else:
-            get_details_by_incident(sys.argv[1], from_, to_, filename)
+            get_details_by_incident(sys.argv[1], from_, to_)
