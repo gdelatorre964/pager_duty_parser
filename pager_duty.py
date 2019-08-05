@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # Author: Gabriela De La Torre
 # @2019
-
 import csv
 import re
 import sys
@@ -19,7 +18,6 @@ def daterange(d1, d2):
     for n in range(int((d2 - d1).days) + 1):
 
         yield d1 + timedelta(n)
-
 
 def clean_notes(note):
     note = note.split(':')
@@ -136,16 +134,11 @@ if __name__ == '__main__':
     with open('tags.csv', mode='r') as infile:
         reader = csv.reader(infile)
         tag_dict = {rows[1]: rows[0] for rows in reader}
-    week_ = 7
-    while week_:
-        week_ -= 1
-        from_, to_ = input('Insert dates:\n').split()
-        mydates = pd.date_range(from_, to_).tolist()
-        print(mydates)
-        if week_ == 6:
-            filename = from_
-        if len(sys.argv) == 1:
-            print(
-                'Error: You did not enter the correct number of parameters.\n')
-        else:
-            get_details_by_incident(sys.argv[1], from_, to_)
+  
+    from_, to_ = input('Insert dates:\n').split()
+   
+    if len(sys.argv) == 1:
+        print(
+            'Error: You did not enter the correct number of parameters.\n')
+    else:
+        get_details_by_incident(sys.argv[1], from_, to_)
